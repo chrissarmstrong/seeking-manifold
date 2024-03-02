@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Seeking Manifold",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -55,7 +55,8 @@ const config: QuartzConfig = {
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "filesystem"],
       }),
-      Plugin.Latex({ renderEngine: "katex" }),
+//      Plugin.Latex({ renderEngine: "katex" }),
+      Plugin.Latex({ renderEngine: "MathJax" }),
       Plugin.SyntaxHighlighting({
         theme: {
           light: "github-light",
