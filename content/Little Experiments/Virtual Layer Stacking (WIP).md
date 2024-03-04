@@ -1,12 +1,14 @@
 ---
-title: Virtual Layer Stacking
+title: Virtual Layer Stacking (WIP)
 draft: false
-tags:
+tags: 
+date: 2024-02-27
 ---
-2024-02
 Repo: (#to do#)
 
 ## The Idea
+
+**This is a work in progress.**
 
 There have been indications recently that we can expand the capacity of LLMs by duplicating blocks (and then following up with some sort of fine-tuning). Two examples:
 1. [Goliath-120B](https://www.reddit.com/r/LocalLLaMA/comments/17rsmox/goliath120b_quants_and_future_plans/), in which layers from two separate fine-tunes of the same 70B model were interwoven to achieve a much larger model that (at least anecdotally) has very good performance.
@@ -38,31 +40,30 @@ Another thing to note is that here I only tried mappings in which you keep the f
 
 ![[Pasted image 20240302101626.png]]
 
-(narrow down to one option for further testing. Used row 2)
+I decided at this point to focus on using the second row as the basis for further testing. In other words, for the testing that follows used a mapping of [0, 1, 1, 1, 2, 2, 2, 3] for an 8-layer target model (and [0, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 3] for a 12-layer target).
 
-In all runs, froze the main layer matrices and trained only the LoRA (or IA3) matrices (per the first figure above).
+The reason that I steered away from the best-performing option, the top row above, is that I was concerned that the model - by virtue of working through layers 0 to 3 two times - would be wasting compute just getting back to where it was before.
 
-(# does this apply here?: Since I'm training for only one epoch I can use the final training loss as a reasonable evaluation metric.#)
+In all runs, I froze the main layer matrices and trained only the LoRA (or IA3) matrices (as depicted in the first figure above).
 
 ## Results
 
-I'm *re-training* on a 250k subset of the dataset that the model saw in pretraining; in retrospect not the best idea.
+I'm showing the training curves here (instead of end results) because in some cases when it became clear where the run was trending I got impatient and cut it short (these runs were taking 12 - 16 hours). All runs are also *less than* one epoch of a subset of the TinyStories dataset. (I'm *re-training* on data that the model saw in pretraining, which in retrospect is not the best idea.)
 
-I'm showing the training curves here (instead of end results) because in some cases when it became clear where the run was trending I got impatient and cut it short.
-
-In this graph, (##)
+In this graph, all LoRA runs have `rank=8`, `lora_alpha=16`, and `lora_dropout=0.1`.
 
 ![[Pasted image 20240302105205.png]]
 
 Notation for the different runs (*TS-33M* refers to the base TinyStories-33M model):
-- *TS-33M-8RL-LoRA-Exp1* (brown): 8 'real' layers, with LoRA, with source-to-target mapping of [0, 1, 1, 1, 2, 2, 2, 3]. In other words, I simply *copied* the four new layers from the original 4-layer model (as opposed to using weight tying), then trained some more (with base layers frozen, LoRA updates only). Consider this the baseline. The mix of 4 real + 4 virtual layers was very close to this baseline, as expected.
-- *TS-33M-12RVL-LoRA-Exp3* (purple): 6 'real' layers + 6 'virtual' layers, all with LoRA.
-- *TS-33M-12RVL-IA3-Exp4* (dark green): 6 'real' layers + 6 'virtual' layers, all with IA3 adapters. Here the IA3 
-- *TS-33M-12RVL-IA3-Exp5* (): 
+- *TS-33M-8RL-LoRA-Exp1* (brown): *Baseline*. 8 'real' layers, with LoRA, with source-to-target mapping of [0, 1, 1, 1, 2, 2, 2, 3]. In other words, I simply *copied* the four new layers from the original 4-layer model (as opposed to using weight tying), then trained some more (with base layers frozen, LoRA updates only). (The mix of 4 real + 4 virtual layers was very close to this baseline, as expected.) This baseline model got a PPL of 4.41, the same as the fully-trained 4-layer model.
+- *TS-33M-12RVL-LoRA-Exp3* (purple): 6 'real' layers + 6 'virtual' layers, all with LoRA. Basically converged to the same result as the baseline.
+- *TS-33M-12RVL-IA3-Exp4* (dark green): 6 'real' layers + 6 'virtual' layers, all with IA3 adapters. Here the IA3 adapters had a learning rate of 5e-5, which turned out to be way too low.
+- *TS-33M-12RVL-IA3-Exp5* (teal): Same as *Exp4* above except starting with an LR of 3e-3. Significantly better but still doesn't match the LoRA models.
 
-## Takeaways
+## To do
 
+The results so far have been fairly disappointing; I was hoping that adding a bunch of (frozen) layers with fine-tuned adapters would give the model more capacity. That said, I think there is more worth pursuing here.
 
-## Additional Thoughts
+I need to do more work mapping out the difference between 4-, 8-, and 12-layer models. I also need to experiment with larger rank with LoRA and higher learning rate with IA3. As can be seen from the graph above, I'm also not waiting for the training to 
 
-I consider this a work in progress that I really want to get back to. I've been a bit surprised - and very bummed - about the results here so far, but I think there is something worth pursuing here, and I want to try out some more ideas.
+2024-03 update: since starting this work I came across [this MobileLLM paper](https://arxiv.org/pdf/2402.14905.pdf)  in which they "propose an immediate block-wise weight sharing approach with no increase in model size and only marginal latency overhead," which sounds very similar to what I'm doing (I have not dug into details). They see less than 1% gain in accuracy from this technique, which is not very encouraging.

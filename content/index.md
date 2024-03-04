@@ -2,7 +2,7 @@
 title: 🐭  Tidbits
 ---
 
-Hey there! I'm Chris. This is a little site that collects some of the stuff I'm thinking about and working on.
+Hey there! I'm Chris. This is a site that collects some of the stuff I'm thinking about and working on.
 
 Some background: I'm a former electrical engineer (lots of analog and signal stuff) and physicist (medium-energy nuclear, experimental). For quite a while, though, I've been doing product management (a variety of web products, from social media to content management and chat bots).
 
@@ -14,7 +14,7 @@ Additional tidbits:
 - [[Research Areas of Interest]]
 - [[Little Experiments/index|Little Experiments]]
 
-Here's a little map of what I've been up to lately:
+Here's a map of what I've been up to lately:
 
 ![[Pasted image 20240301084431.png]]
 

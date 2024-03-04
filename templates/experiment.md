@@ -1,7 +1,8 @@
 ---
 title: "{{title}}"
 draft: false
-tags:
+tags: 
+date:
 ---
 {{date}}
 Repo: (#to do#)

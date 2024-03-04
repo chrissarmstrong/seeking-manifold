@@ -1,9 +1,9 @@
 ---
 title: Low Rank Substitution
 draft: false
-tags:
+tags: 
+date: 2023-12-22
 ---
-2023-12
 Repo: (#to do#)
 
 ## The Idea

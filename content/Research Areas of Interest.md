@@ -1,7 +1,8 @@
 ---
 title: Research Areas of Interest
-draft: false
-tags:
+draft: true
+tags: 
+date: 2024-02-02
 ---
  Advancing the capabilities of current systems (DL and other), especially where real weaknesses exist:
 - The biggies:
@@ -18,7 +19,7 @@ tags:
 
 Bringing learnings from neuroscience, linguistics, and our understanding of the human brain to bear on AI / ML
 - 'Structured thinking' / world models / predictive coding
-- Neurolgical inspirations, like spiking models of the neuron
+- Neurological inspirations, like spiking models of the neuron
 - The free energy principle
 - Grounding in the physical and temporal world / embodiment
 - Sparsity

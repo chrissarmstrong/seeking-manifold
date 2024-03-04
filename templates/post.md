@@ -1,7 +1,8 @@
 ---
 title: "{{title}}"
 draft: false
-tags:
+tags: 
+date:
 ---
  
 **Really great content** goes here :)

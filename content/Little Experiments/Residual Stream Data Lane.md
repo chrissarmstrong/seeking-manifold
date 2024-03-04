@@ -1,9 +1,9 @@
 ---
 title: Residual Stream Data Lane
 draft: false
-tags:
+tags: 
+date: 2023-12-17
 ---
-2023-12
 Repo: (#to do#)
 
 ## The Idea
