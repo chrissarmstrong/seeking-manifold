@@ -27,8 +27,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-//    Component.DesktopOnly(Component.Explorer()),
-    Component.DesktopOnly(Component.Explorer({folderClickBehavior: "link"})),
+    Component.DesktopOnly(Component.Explorer()),
+//    Component.DesktopOnly(Component.Explorer({folderClickBehavior: "link"})),
   ],
   right: [
 //    Component.Graph(),
@@ -45,8 +45,8 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-//    Component.DesktopOnly(Component.Explorer()),
-    Component.DesktopOnly(Component.Explorer({folderClickBehavior: "link"})),
+    Component.DesktopOnly(Component.Explorer()),
+//    Component.DesktopOnly(Component.Explorer({folderClickBehavior: "link"})),
   ],
   right: [],
 }
