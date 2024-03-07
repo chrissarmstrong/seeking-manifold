@@ -7,6 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
+      "Authored with Obsidian": "https://obsidian.md/",
 //      GitHub: "https://github.com/jackyzha0/quartz",
 //      "Discord Community": "https://discord.gg/cRFFHYye7t",
     },
@@ -26,8 +27,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
-//    Component.DesktopOnly(Component.Explorer({folderClickBehavior: "link"})),
+//    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer({folderClickBehavior: "link"})),
   ],
   right: [
 //    Component.Graph(),
@@ -44,7 +45,8 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+//    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer({folderClickBehavior: "link"})),
   ],
   right: [],
 }
