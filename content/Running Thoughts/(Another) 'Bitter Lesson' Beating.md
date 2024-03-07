@@ -1,5 +1,5 @@
 ---
-title: A 'Bitter Lesson' Beating
+title: (Another) 'Bitter Lesson' Beating
 draft: false
 tags: 
 date: 2024-02-26
