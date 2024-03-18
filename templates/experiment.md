@@ -1,12 +1,10 @@
 ---
 title: "{{title}}"
-draft: false
+draft: true
 tags: 
 date:
 ---
 {{date}}
-Repo: (#to do#)
-
 ## The Idea
 
 
@@ -21,3 +19,6 @@ Repo: (#to do#)
 
 ## Additional Thoughts
 
+
+
+Repo: (#to do#)

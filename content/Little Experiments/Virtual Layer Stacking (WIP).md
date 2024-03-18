@@ -4,8 +4,6 @@ draft: false
 tags: 
 date: 2024-02-27
 ---
-Repo: (#to do#)
-
 ## The Idea
 
 **This is a work in progress.**
@@ -64,6 +62,8 @@ Notation for the different runs (*TS-33M* refers to the base TinyStories-33M mod
 
 The results so far have been fairly disappointing; I was hoping that adding a bunch of (frozen) layers with fine-tuned adapters would give the model more capacity. That said, I think there is more worth pursuing here.
 
-I need to do more work mapping out the difference between 4-, 8-, and 12-layer models. I also need to experiment with larger rank with LoRA and higher learning rate with IA3. As can be seen from the graph above, I'm also not waiting for the training to 
+I need to do more work mapping out the difference between 4-, 8-, and 12-layer models. I also need to experiment with larger rank with LoRA and higher learning rate with IA3. As can be seen from the graph above, I'm also not waiting for the training to completely run its course; once it settles in and I have a good sense of where it's going I'm off to another run.
 
 2024-03 update: since starting this work I came across [this MobileLLM paper](https://arxiv.org/pdf/2402.14905.pdf)  in which they "propose an immediate block-wise weight sharing approach with no increase in model size and only marginal latency overhead," which sounds very similar to what I'm doing (I have not dug into details). They see less than 1% gain in accuracy from this technique, which is not very encouraging.
+
+Repo: (#to do#)

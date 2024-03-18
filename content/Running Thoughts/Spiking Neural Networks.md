@@ -1,5 +1,5 @@
 ---
-title: "{{title}}"
+title: Spiking Neural Networks
 draft: true
 tags: 
 date:

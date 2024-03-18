@@ -1,5 +1,5 @@
 ---
-title: "{{title}}"
+title: Causality and Learning
 draft: true
 tags: 
 date:

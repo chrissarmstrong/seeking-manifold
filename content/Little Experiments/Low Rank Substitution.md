@@ -4,8 +4,6 @@ draft: false
 tags: 
 date: 2023-12-22
 ---
-Repo: (#to do#)
-
 ## The Idea
 
 At some point I came across [this post](https://medium.com/@edandwe/a-guide-to-craft-your-own-custom-hugging-face-model-ba9cd555a646) and it got me thinking about a similar idea: What happens if we try replacing all or some of the Q / K / V and FFW matrices with lower-rank matrices and train from scratch? Kind of like LoRA, but instead of augmenting the existing matrices with low-rank adapters we replace them altogether?
@@ -41,3 +39,5 @@ One major disappointment here are the two points at the top. I hoped that using 
 ## Additional Thoughts
 
 While the results here were disappointing, running these experiments made me remember [Eric Jang's advice](https://evjang.com/2021/09/20/ephemeralization.html) that "you should strive to be in a position where your productivity bottleneck is the number of ideas you can come up with in a single day". I was able to knock out these experiments in just a couple of days, which was fun.
+
+Repo: (#to do#)

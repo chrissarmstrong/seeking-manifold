@@ -1,12 +1,14 @@
 ---
 title: Structured Thinking
-draft: false
+draft: true
 tags: 
 date: 2022-12-03
 ---
-Repo: There's no chance this code will be made public; just thinking about that gives me the shakes. Because I was coming down a bunch of learning curves at once, and was working on this exercise on nights and weekends only, it meandered over several months in a barely coherent fashion. And at the time I did not understand how to inherit from Hugging Face classes, so instead copied large swaths of the HF code and modified it. Madness!
-
 ## The Idea
+
+An idea that has stuck with me in various forms since I started reading the machine learning literature has to do with the way that current connectionist[^1] systems (##)
+
+(#Start with some notion of the idea of structured thinking. This was a first (failed) foray into those explorations, but there's something to the underlying idea that I think has merit. But maybe I'm falling prey to [[(Another) 'Bitter Lesson' Beating|the Bitter Lesson]]?#)
 
 This was my first real foray into munging some data and into doing surgery on a model (the patient barely survived!) in order to try out an idea I had.
 
@@ -81,10 +83,13 @@ Some interesting side learnings:
 
 ## Results
 
-
+(#Some notes on 2022-10-16, not sure if they are worth including#)
 ## Takeaways
 
 (#quite naive about capabilities of models and how they learn#)
 
 ## Additional Thoughts
 
+Repo: There's no chance this code will be made public; just thinking about that gives me the shakes. Because I was coming down a bunch of learning curves at once, and was working on this exercise on nights and weekends only, it meandered over several months in a barely coherent fashion. And at the time I did not understand how to inherit from Hugging Face classes, so instead copied large swaths of the HF code and modified it. Madness!
+
+[^1]: I'm using the term 'connectionist' here because - although it seems to be a term whose main use dates back to the '70s - conveys the notion that (##)

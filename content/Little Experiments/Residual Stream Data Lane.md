@@ -4,8 +4,6 @@ draft: false
 tags: 
 date: 2023-12-17
 ---
-Repo: (#to do#)
-
 ## The Idea
 
 Chris Olah, with collaborators Nelson Elhage, Neel Nanda, Catherine Olssen and others at Anthropic have done a lot of interesting mechanistic interpretability work that begins to explain the [mathematical framework](https://transformer-circuits.pub/2021/framework/index.html) and [key mechanisms](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html) of the transformer architecture (and [convnet circuits before that](https://distill.pub/2020/circuits/)).
@@ -61,3 +59,5 @@ Also, this is the first experiment where I (a relative coding newbie) felt fairl
 In that vein, I find that it really helps to sketch out the class hierarchy of the model you are modifying. Something like this:
 
 ![[Pasted image 20240301160517.png]]
+
+Repo: (#to do#)
