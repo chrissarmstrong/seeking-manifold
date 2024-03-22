@@ -1,5 +1,5 @@
 ---
-title: CIFAR-10 for Video (Towards Simulated Environments for Self-Supervised Learning)
+title: CIFAR for Video (Towards Simulated Environments for Self-Supervised Learning)
 draft: false
 tags: 
 date: 2024-03-17
