@@ -14,7 +14,7 @@ My work since leaving Verizon is largely documented in [[Little Experiments/inde
 
 I spent 6 years at Verizon ('17 - '23) doing management for a couple of products that helped get the Verizon Business Group into the AI / ML space (this group sells products to B2B customers, not part of the consumer group that most people think of when they hear 'Verizon').
 
-The role was classic product management, interacting with a large group of stakeholders at a big company, as well as managing several vendors.
+The role was classic product management, interacting with a large group of stakeholders at a big company, as well as managing several vendors. I also got quite a bit of experience designing and deploying Google Cloud Platform AI / ML services in a B2B context.
 
 The job was my introduction to the AI space, but the more I learned the more I wanted to get really hands-on. In June of 2023 I left Verizon to dig into AI full-time. [[Leaving Verizon|Here's the skinny on that move]].
 
@@ -36,9 +36,9 @@ I also got experience in various management roles, including technical managemen
 
 # Jefferson Lab
 
-After I did the research for my doctorate at [Jefferson Lab](https://www.jlab.org/) in Virginia and graduating, I spent a year and a half doing a post-doc there. I thoroughly enjoyed my time there; this was when the lab was just coming online, and it was arguably *the* place in the US to do nuclear physics at the time. The lab was populated with extraordinary folks from around the world.
+After I did the research for my doctorate at [Jefferson Lab](https://www.jlab.org/) in Virginia and graduating from William & Mary, I spent a year and a half doing a post-doc at the lab. I thoroughly enjoyed my time there; this was when the accelerator was just coming online, and it was arguably *the* place in the US to do nuclear physics. The lab was populated with extraordinary folks from around the world.
 
-I departed because the web was just taking off, and I really felt an urge to be part of that. Nowadays you'd call it FOMO.
+I departed because the web was taking off, and I really felt an urge to be part of that. Nowadays you'd call it FOMO.
 
 # Education stuff
 

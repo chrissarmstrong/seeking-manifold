@@ -14,7 +14,7 @@ There have been indications recently that we can expand the capacity of LLMs by 
 
 I'm very interested in improving models for low-resource scenarios, and the thought that occurred to me was: could we use *virtual* (that is, weight-tied) layers, each with LoRA-type adapters, to get significantly more layers (hence capability) out of a transformer with a lower parameter count (so less memory during inference) than simply increasing the number of layers?
 
-Note that this wouldn't do *much* to reduce VRAM required for training, since that is dominated by other considerations (#link to note with graphic#). Nor would it help with inference latency or throughput, since you are still walking through all the layers in the forward pass. But if it would help me fit a more capable model onto my little GPU, then that would be a step in the right direction! (Then separately you could look at introducing, say, MoE to reduce latency.)
+Note that this wouldn't do *much* to reduce VRAM required for training, since that is dominated by other considerations. Nor would it help with inference latency or throughput, since you are still walking through all the layers in the forward pass. But if it would help me fit a more capable model onto [[I Am Here|my little GPU]], then that would be a step in the right direction! (Then separately you could look at introducing, say, mixture of experts to reduce latency.)
 
 Here's a diagram of what I did (although it shows a toy two-layer model just to convey the concept):
 
