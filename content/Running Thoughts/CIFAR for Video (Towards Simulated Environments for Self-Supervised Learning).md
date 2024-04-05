@@ -4,7 +4,7 @@ draft: false
 tags: 
 date: 2024-03-17
 ---
-I believe that if we want to have systems that truly learn causality it will help enormously, and may be crucial, to have a visual understanding of the 3D, physical world. When I started thinking about video experiments that could take cues from [[The Vision System|the human vision system]], one of the first things I did was to try to find the video analog of [the CIFAR dataset](https://www.cs.toronto.edu/~kriz/cifar.html).
+I believe that if we want to have systems that truly understand the physical world and causality it will help enormously, and may be crucial, to have a visual understanding of the 3D world. When I started thinking about video experiments that could take cues from [[The Vision System|the human vision system]], one of the first things I did was to try to find the video analog of [the CIFAR dataset](https://www.cs.toronto.edu/~kriz/cifar.html).
 
 This would be a dataset of simple videos, available at low resolutions, and would feature motion (and maybe audio?) of inanimate (and maybe animate) objects interacting in physically-realistic ways.
 
@@ -15,7 +15,7 @@ But as I started thinking more about what I wanted for my experimentation, it se
 I want to have videos in different categories that I could use in curriculum-based training of models. Imagine starting to train a model with very basic shapes in a spartan space (a mostly empty room) with rudimentary motion. You use this environment to see if you can get a model to understand some basic physics concepts, like visual occlusion, two objects making contact, stability, gravity, etc.
 
 >[!Note]
-> [[Measuring Success of Self-Supervised Systems|How you measure success]] in such a system is an interesting topic in itself. And doing that may be aided by the availability of unlikely or 'impossible' scenarios.
+> [[Evaluating Representations from Self-Supervised Systems|How you measure success]] in such a system is an interesting topic in itself. And doing that may be aided by the availability of unlikely or 'impossible' scenarios.
 
 Assuming you can get a model to gain an understanding of rudimentary worlds, then you begin adding in various forms of complexity and realism: more complex shapes, non-rigid shapes, transparency, different types of motion, animated (self-locomoting) objects, etc. There are multiple classes of things that you could do to make the simplest scenarios more realistic.
 

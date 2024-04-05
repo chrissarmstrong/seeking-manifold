@@ -38,7 +38,7 @@ Another thing to note is that here I only tried mappings in which you keep the f
 
 ![[Pasted image 20240302101626.png]]
 
-I decided at this point to focus on using the second row as the basis for further testing. In other words, for the testing that follows used a mapping of [0, 1, 1, 1, 2, 2, 2, 3] for an 8-layer target model (and [0, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 3] for a 12-layer target).
+I decided at this point to focus on using the second row as the basis for further testing. In other words, the testing that follows used a mapping of [0, 1, 1, 1, 2, 2, 2, 3] for an 8-layer target model (and [0, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 3] for a 12-layer target).
 
 The reason that I steered away from the best-performing option, the top row above, is that I was concerned that the model - by virtue of working through layers 0 to 3 two times - would be wasting compute just getting back to where it was before.
 

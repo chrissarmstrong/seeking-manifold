@@ -23,9 +23,9 @@ The basic idea is that we have a residual stream that is (say) twice as big as t
 I used a modified version of [the TinyStories-33M model](https://huggingface.co/roneneldan/TinyStories-33M) (which is based on GPTNeo) as a basis for this work, trained from scratch. I modified the model per the diagram above to have some fraction of its residual stream freed up as a data lane - that is, the input embedding did not go into that part of the residual stream.
 
 I tried a number of different things:
-- Varying the size of the residual stream itself (which changes the number of trainable params)
-- Varying the fraction of the residual stream excluded from the input embeddings (that is, the size of the 'data lane')
-- (##)
+- Varying the size of the residual stream itself, or $d_{model}$ (which changes the number of trainable params)
+- Varying the fraction of the residual stream *excluded* from the input embeddings (that is, the size of the 'data lane')
+- 'Switching' the data lane component from one side of the residual stream to the other (so that the input embedding comes in on one side and the output embedding is taken from the other side)
 
 All runs were using a 250k (of 2.75M) sample subset of [this version](https://huggingface.co/datasets/skeskinen/TinyStories-GPT4) of the [TinyStories dataset](https://huggingface.co/datasets/roneneldan/TinyStories), trained for 1 epoch of that subset (such a run took about 8 hours on my GPU).
 ## Results
