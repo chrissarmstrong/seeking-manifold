@@ -10,7 +10,7 @@ Here's my stupid tip, which applies if the model code you want to run is relativ
 
 I grab the code in question, drop it in a python file (using some generic environment that has torch and transformers), add whatever imports are necessary. Add code to instantiate classes and supply config and inputs. Basically do whatever you need to do to get the code to run.
 
-Here's what this looked like for today's exercise, where I wanted to make sure I could follow what was happening in the MoE-related classes in Mixtral. Here's the relevant code, pasted straight out of HuggingFace (the details aren't important, but I'm putting it all here for reference):
+Here's what this looked like for today's exercise, where I wanted to make sure I could follow what was happening in the MoE-related classes in Mixtral. Here's the relevant code, pasted straight out of [HuggingFace](https://github.com/huggingface/transformers/blob/v4.39.3/src/transformers/models/mixtral/modeling_mixtral.py) (the details aren't important, but I'm putting it all here for reference):
 
 ```python
 class MixtralBLockSparseTop2MLP(nn.Module):
@@ -113,7 +113,7 @@ class FakeConfig:
 		self,
 		hidden_size=4096,
 		intermediate_size=14336,
-		hidden_act=nn.SiLU,
+		hidden_act=nn.SiLU(),
 		num_experts_per_tok=2,
 		num_local_experts=8
 	):
