@@ -9,5 +9,6 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
-Little\ Experiments/drafts
-Running\ Thoughts/drafts
+content/Little\ Experiments/drafts
+content/Running\ Thoughts/drafts
+content/not\ public
