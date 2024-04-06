@@ -9,9 +9,9 @@ This morning I found out about [this really great visualization of several GPT m
 2. Use the left mouse button to move around, middle or right mouse button to rotate and mouse wheel to zoom
 3. Blue rectangles are weight matrices, green are activations
 
-Cheers to Brendan Bycroft for putting that together!
+Cheers to Brendan Bycroft for putting that site together!
 
-The thing that really blew me away was the difference in scale between the different models. Static screen shots really don't do it justice—you really need to play with it yourself—but here are some pics anyways.
+The thing that really blew me away was the difference in scale between the different models. Static screen shots really don't do it justice—you need to play with it yourself—but here are some pics anyways.
 
 Here's a visualization of nanoGPT. This model has a mere 86k parameters:
 
