@@ -8,7 +8,7 @@ Consider this a kind of 'conversational resume', like what you'd get if you quiz
 
 # A Glorious Self-Study Sabbatical
 
-My work since leaving Verizon is largely documented in [[Little Experiments/index|Little Experiments]].
+My work since leaving Verizon is largely documented in [[Little Experiments/index|Little Experiments]] (and this entire site more generally).
 
 # Verizon
 
@@ -18,7 +18,7 @@ The role was classic product management, interacting with a large group of stake
 
 The job was my introduction to the AI space, but the more I learned the more I wanted to get really hands-on. In June of 2023 I left Verizon to dig into AI full-time. [[Leaving Verizon|Here's the skinny on that move]].
 
-# Perfect Sense
+# Perfect Sense (Brightspot)
 
 Prior to joining Verizon I was at Perfect Sense (now Brightspot) for 7 years. I was with the company as it grew from about 40 people to 130. I did an interesting combination of product management for the in-house content management and digital asset management systems that we sold and consulting work for Perfect Sense customers.
 
