@@ -8,15 +8,15 @@ Some of the larger issues in AI that have come to the fore recently are around h
 
 In particular, I've been thinking about how we might train [JEPA systems](https://openreview.net/forum?id=BZ5a1r-kVsf) to learn representations that allow for these capabilities.
 
-One of the notable aspects of a JEPA is that it has no explicit generative component. Unlike a language model or a VAE or a GAN, it does not directly output something (text or image) that we can evaluate in a familiar domain.
+One of the notable aspects of a JEPA is that it has no explicitly generative component. Unlike a generative language model or a VAE or a GAN, it does not directly output something (text or image) that we can evaluate in a familiar domain.
 
-So a related question arises: how do we determine whether a JEPA system that we have trained in a self-supervised way has *learned meaningful representations*?  When training (say) a vision system, how does one judge the quality of the learned representations if we get no video predictions out?
+So the question arises: how do we determine whether a JEPA system that we have trained in a self-supervised way has *learned meaningful representations*?  When training (say) a vision system, how does one judge the quality of the learned representations if we get no video predictions out?
 
 From what I can tell, the JEPA work done to date has been mostly in the domain of images. In that scenario, one possible answer to the evaluation question is: *how well do the learned representations perform in downstream tasks?* For example, can we feed the representations into a classifier and (with few examples) train it to do successful image classification?
 
-But if we're interested in using video to solve for abilities like understanding causality and performing reasoning, the answer is not nearly so clear (at least to me!).
+But if we're interested in using video to solve for abilities like understanding causality and performing reasoning, the answer is not quite as clear.
 
-Let's consider the problem very generally, and without the JEPA constraints: you have a black box system—think of it as an AI agent—into which you feed sensory information in order to have it learn about the world. You've designed a loss function to give it a learning signal. The loss goes down as the system trains, but what's to say that your loss function isn't garbage? What could you hope to get from that system to convince you that it had actually learned something meaningful?[^2]
+Let's consider the problem very generally, and without the JEPA constraints: you have a black box system into which you feed sensory information in order to have it learn about the world. You've designed a loss function to give it a learning signal. The loss goes down as the system trains, but what's to say that your loss function isn't garbage? What could you hope to get from that system to convince you that it had actually learned something meaningful?[^2]
 
 This thought experiment turns on (at least) two aspects of the interface between the black box and the external world: 1) what is the nature of the information *into* the black box, and 2) what sort of information can flow *out of* the black box?[^3]
 
@@ -28,17 +28,20 @@ The inputs could be any number of things:
 - other (haptic information, olfactory information, taste information, etc.)
 
 Similarly, we could have a number of possible classes of output:
-- raw representations (say the embeddings from an RNN or a transformer)
+- raw representations (like the embeddings from an RNN or a transformer)
 - text
 - speech
 - images or videos
 - motion of some sort, if the agent is embodied (facial expression, body movements or actions, creation of various physical artifacts)
 
-Here's something important to note: *all of those output types except the first one assume that the system has some sort of generative capability*. The system may not be a generative system, per se—that is, it may not have a generative model at its core, of the type that LeCun wants to move away from—but it would certainly need some sort of generative ability to produce text, images, etc.
+Here's something important to note: *all of those output types except the first one assume that the system has some sort of generative capability*. The system may not have a generative model at its core (the type that LeCun wants to move away from), but it would certainly need some sort of generative ability 'bolted on' to produce speech, text, images, etc.
 
-And it is surely the case that you or I, faced with an agent we had not interacted with, would expect to use generative outputs of a system to evaluate its intelligence (which I'm assuming are a floor for the quality of its internal representations). We could listen to it speak or look at the text or images that it generates and use that output to evaluate its representations.
+And it is surely the case that you or I, faced with an agent we had not previously interacted with, would expect to evaluate its intelligence using its generative outputs. In other words, we could listen to it speak or look at the text or images that it produces to get a sense for the quality of its internal representations.[^3]
 
-Pulling back now from the general problem: if I'm trying to work on only a subset of the overall system, and output raw representations from video that captures causal interactions and the like, it's not so clear how to proceed.
+Stepping back now from the general problem posed above: I would like to develop a JEPA system that learns internal representations capable of supporting causal understanding and reasoning. My gut tells me that we should start with visual observation (that is, video). While intelligence can obviously develop in the absence of visual input, 
+
+
+if I'm trying to work on only a subset of the overall system, and output raw representations from video that captures causal interactions and the like, it's not so clear how to proceed.
 
 Here are some short notes on potential approaches to this challenge of evaluation.
 
@@ -107,5 +110,9 @@ All of this has prompted my thinking about [[CIFAR for Video (Towards Simulated 
 
 
 [^2]: This is related to the problem of how you judge intelligence of a system - see, for example, François Chollet's [On the Measure of Intelligence](https://arxiv.org/abs/1911.01547) (2019). But this question of judging learned representations is really a precursor to that question of judging intelligence.
+
+[^3]: Here I'm assuming intelligence is a floor for the quality of its internal representations, which seems reasonable.
+
 [^3]: There's also a question about whether information into the system is in any way conditional on the outputs of the system. In other words, is there a feedback loop between the output of the system and what it receives back? Here I'm assuming there is no feedback; but if there is, it begins looking like a reinforcement learning problem.
+
 [^4]: The text interface is, of course, also at the heart of the Turing Test (with all its issues as a measure of intelligence).

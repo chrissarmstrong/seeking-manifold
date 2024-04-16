@@ -18,9 +18,9 @@ In the spring of 2023 I decided to [[Leaving Verizon|quit my day job]], if only 
 
 Here are some things I've been [[Sabbatical Activities|thinking about and doing lately]]:
 
-![[Pasted image 20240301084431.png]]
+![[Activities.png]]
 
 And here are some of my [[Research Interests|research interests]]:
 
-![[Pasted image 20240301092207.png]]
+![[Research Interests.png]]
 
