@@ -1,6 +1,7 @@
 ---
-title: 🐭  Tidbits
+title: Tidbits
 ---
+![[seeking-manifold-icon.png|100]]
 
 Hey there! I'm Chris Armstrong. This is a site that collects some of the stuff I'm thinking about and working on.
 
