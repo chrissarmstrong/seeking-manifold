@@ -4,7 +4,6 @@ draft: false
 tags: 
 date: 2024-04-08
 ---
-# Activities
 Some quick notes on things that have kept me busy during my sabbatical year (well, including a few things I worked on earlier).
 
 ## Studies

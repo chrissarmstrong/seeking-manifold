@@ -4,8 +4,6 @@ draft: false
 tags: 
 date: 2024-04-12
 ---
-# Research Interests
-
 Here's a laundry list of research topics I'm interested in:
 
 - Democratization, local LLMs, and doing more with low resources
