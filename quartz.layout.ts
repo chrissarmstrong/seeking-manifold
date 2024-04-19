@@ -27,9 +27,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-//    Component.DesktopOnly(Component.Explorer({folderClickBehavior: "collapse"})),
-//    Component.DesktopOnly(Component.Explorer({folderClickBehavior: "link"})),
-Component.Explorer({folderClickBehavior: "link", folderDefaultState: "open"}),
+    Component.DesktopOnly(Component.Explorer({folderClickBehavior: "collapse", folderDefaultState: "open"})),
+//Component.Explorer({folderClickBehavior: "link", folderDefaultState: "open"}),
 ],
   right: [
 //    Component.Graph(),
@@ -46,9 +45,8 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-//    Component.DesktopOnly(Component.Explorer({folderClickBehavior: "collapse"})),
-//    Component.DesktopOnly(Component.Explorer({folderClickBehavior: "link"})),
-    Component.Explorer({folderClickBehavior: "link", folderDefaultState: "open"}),
+    Component.DesktopOnly(Component.Explorer({folderClickBehavior: "collapse", folderDefaultState: "open"})),
+//    Component.Explorer({folderClickBehavior: "link", folderDefaultState: "open"}),
   ],
   right: [],
 }
