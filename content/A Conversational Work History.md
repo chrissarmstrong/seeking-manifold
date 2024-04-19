@@ -8,7 +8,7 @@ Consider this a kind of 'conversational resume', like what you'd get if you quiz
 
 # A Glorious Self-Study Sabbatical
 
-My work since leaving Verizon is largely documented in [[Experiments|Experiments]] and [[Experiment Ideas|Experiment Ideas]] (and this entire site more generally).
+My work since leaving Verizon is largely documented in [[Experiments/|Experiments]] and [[Experiment Ideas/|Experiment Ideas]] (and this entire site more generally).
 
 # Verizon
 

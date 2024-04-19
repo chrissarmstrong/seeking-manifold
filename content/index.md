@@ -12,9 +12,9 @@ In 2018 (while doing product management for a machine learning-based product at 
 In the spring of 2023 I decided to [[Leaving Verizon|quit my day job]], if only for a while, so I could focus more fully on this AI thing and redirect my work life accordingly. Now it's nearly a year later, and with a better sense of the overall landscape of AI activity I'm starting to think about reentering the workforce.
 
 >[!tip] The Main Things
->- [[Experiments|A collection of modest experiments]]
->- [[Experiment Ideas|Some experiment ideas]]
->- [[Running Thoughts|Some running thoughts]]
+>- [[Experiments/|A collection of modest experiments]]
+>- [[Experiment Ideas/|Some experiment ideas]]
+>- [[Running Thoughts/|Some running thoughts]]
 
 ## Additional tidbits
 

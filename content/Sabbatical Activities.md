@@ -19,7 +19,7 @@ Some of the topics I've been focused on (see also my page about [[Research Inter
 
 ## Little experiments
 
-[[Experiments|The ones I've written about are cataloged here]] (with [[Experiment Ideas|more to come]] as time permits).
+[[Experiments/|The ones I've written about are cataloged here]] (with [[Experiment Ideas/|more to come]] as time permits).
 
 ## Personal projects
 
