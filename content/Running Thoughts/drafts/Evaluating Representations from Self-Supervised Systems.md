@@ -2,7 +2,8 @@
 title: Evaluating Representations from Self-Supervised Systems
 draft: true
 tags: 
-date:
+date: 
+linkedin-promo: false
 ---
 Some of the larger issues in AI that have come to the fore recently are around how we get systems to understand causality, to think and act hierarchically, and to reason. I've been paying attention to what Yann LeCun has been saying on these topics, and I think he makes a lot of sense.
 
@@ -83,7 +84,7 @@ I definitely need to talk to Yann about all of this to see what he has in mind :
 
 (#working#)
 
-
+(#don't we seem to have some sort of generative capabilities in our imagination? I can certainly generate imagined scenes, etc.#)
 
 The scenario with text in and text out, and a generative capability in our black box - what we have with LLMs - is fairly straightforward. While we can certainly argue all day about the details of how we're going to use the generated text out of a black box to judge the quality of the representations it has learned, we at least have a good starting point for the discussion. We're basically looking at a Turing Test-like situation, where we need some way to estimate the intelligence of the system.
 

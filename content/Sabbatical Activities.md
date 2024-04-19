@@ -19,7 +19,7 @@ Some of the topics I've been focused on (see also my page about [[Research Inter
 
 ## Little experiments
 
-[[content/Little Experiments/index|The ones I've written about are cataloged here]] (with more to come as time permits).
+[[Experiments|The ones I've written about are cataloged here]] (with [[Experiment Ideas|more to come]] as time permits).
 
 ## Personal projects
 
@@ -42,9 +42,9 @@ A few random-ish tools that I've been trying to spend time with:
 - **Ollama, Text Generation UI, and SillyTavern.** I've spent some time playing with pretrained LLMs (at least what I can fit on my machine in heavily quantized form). These tools are all nice for interacting with LLMs for daily chat and—in the case of the first two—standing up APIs for use with other apps. When just playing around with LLMs I'm inclined to use a local 7B model rather than run up my bill with OpenAI or Anthropic or Mistral or whoever.
 
 ## Anki!
-[Anki](https://apps.ankiweb.net/), for those who are not familiar with it, is like a superpower. Gone are the days when I start to read a research paper and think to myself "Haven't I looked at this paper before??" Or struggled to remember (again) what the loss function for DPO looks like. Or 
+[Anki](https://apps.ankiweb.net/), for those who are not familiar with it, is like a superpower. Gone are the days when I start to read a research paper and think to myself "Haven't I looked at this paper before??" Or struggled to remember (again) what the loss function for DPO looks like.
 
-I spend about an hour a day reviewing cards and adding new ones. I got serious about Anki in 2019 and my only regret is that I didn't start doing something like this 30 years sooner. Some stats from the last year of my main (primary AI / ML-focused) deck:
+I spend about 1 - 1.5 hours per day reviewing cards and adding new ones; it is a big investment but one I think is well worthwhile. I got serious about Anki in 2019 and my only regret is that I didn't start doing something like this 30 years sooner. Some stats from the last year of my main (primary AI / ML-focused) deck:
 
 
 ![[Pasted image 20240406102817.png]]
@@ -58,13 +58,13 @@ People have a tendency to dismiss this type of thing as rote memorization. "Why 
 
 Over the last decade or so I've used a few different note-taking tools. For many years one called [TiddlyWiki](https://tiddlywiki.com/) was my go-to, but I also tried Joplin and a few others. But all through those years there were various capabilities missing from whatever tool I was using, always prompting me to try something new.
 
-That search for a better tool has pretty much ended now that I've found [Obsidian](https://obsidian.md/).  It is a beautifully-written piece of software that—together with a number of plugins created by the community of users—has addressed all of my note-taking wants. I use it on and off *all day long*, for documenting the little projects I'm working on, capturing ideas, taking notes about things I don't want to forget, creating drawings, keeping daily notes, and on and on. People talk about it as a 'second brain', and that kind of captures it well. The team that created it are rock stars.
+That search for a better tool has pretty much ended now that I've found [Obsidian](https://obsidian.md/).  It is a beautifully-written piece of software that—together with a number of plugins created by the community of users—has addressed all of my note-taking wants. I use it on and off *all day long*, for documenting the little projects I'm working on, capturing ideas, taking notes about things I don't want to forget, creating drawings, keeping daily notes, and on and on. People talk about it as a 'second brain', and that captures it pretty well. The team that created it are rock stars.
 
-And you can pretty easily connect Obsidian to Quartz and Github for publishing static sites, so I now use that combo for authoring this blog.
+And you can connect Obsidian to Quartz and Github for publishing static sites, so I now use that combo for authoring this blog.
 
 ## Zotero
 
-For me, Zotero is like Anki and Obsidian, in the sense that I find it indispensable. Before I started using it I would either annotate standalone pdfs for papers I really cared about (what a mess), or I wouldn't bother (and then would bang my head on the desk when I couldn't remember what I learned the last time I looked at the paper!).
+For me, Zotero is like Anki and Obsidian, in that it is indispensable. Before I started using it I would either annotate standalone pdfs for papers I really cared about (what a mess), or I wouldn't bother (and then would bang my head on the desk when I couldn't remember what I learned the last time I looked at the paper!).
 
 Having a single repository for all my notes on papers is *so* nice.
 

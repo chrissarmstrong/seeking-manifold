@@ -8,11 +8,11 @@ Consider this a kind of 'conversational resume', like what you'd get if you quiz
 
 # A Glorious Self-Study Sabbatical
 
-My work since leaving Verizon is largely documented in [[Little Experiments/index|Little Experiments]] (and this entire site more generally).
+My work since leaving Verizon is largely documented in [[Experiments|Experiments]] and [[Experiment Ideas|Experiment Ideas]] (and this entire site more generally).
 
 # Verizon
 
-I spent 6 years at Verizon ('17 - '23) doing management for a couple of products that helped get the Verizon Business Group into the AI / ML space (this group sells products to B2B customers, not part of the consumer group that most people think of when they hear 'Verizon').
+I spent 6 years at [Verizon](https://www.verizon.com/) ('17 - '23) doing management for a couple of products that helped get the Verizon Business Group into the AI / ML space (this group sells products to B2B customers, not part of the consumer group that most people think of when they hear 'Verizon').
 
 The role was classic product management, interacting with a large group of stakeholders at a big company, as well as managing several vendors. I also got quite a bit of experience designing and deploying Google Cloud Platform AI / ML services in a B2B context.
 
@@ -20,7 +20,7 @@ The job was my introduction to the AI space, but the more I learned the more I w
 
 # Perfect Sense (Brightspot)
 
-Prior to joining Verizon I was at Perfect Sense (now Brightspot) for 7 years. I was with the company as it grew from about 40 people to 130. I did an interesting combination of product management for the in-house content management and digital asset management systems that we sold and consulting work for Perfect Sense customers.
+Prior to joining Verizon I was at Perfect Sense (now [Brightspot](https://www.brightspot.com/)) for 7 years. I was with the company as it grew from about 40 people to 130. I did an interesting combination of product management for the in-house content management and digital asset management systems that we sold and consulting work for Perfect Sense customers.
 
 I learned a lot about the content management space, as well as operating in a sort of consulting role.
 
@@ -28,7 +28,7 @@ I learned a lot about the content management space, as well as operating in a so
 
 # AOL
 
-I spent a decade (!) at AOL, starting right in the AOL Time-Warner heyday. AOL was trying to get into the streaming content business, and needed help understanding the world of hardware, so I spent a while focused on set-top boxes and cable infrastructure. Before long, however, I transitioned to a product management role.
+I spent a decade (!) at [AOL](https://www.aol.com/), starting right in the AOL Time-Warner heyday. AOL was trying to get into the streaming content business, and needed help understanding the world of hardware, so I spent a while focused on set-top boxes and cable infrastructure. Before long, however, I transitioned to a product management role.
 
 Over the course of my product management time at AOL I learned a ton about social media (anyone remember AOL Member Directory and Message Boards?), and helped transition a number of products from proprietary technology to the standards-based stuff that was taking over the web.
 

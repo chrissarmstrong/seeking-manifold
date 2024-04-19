@@ -3,6 +3,7 @@ title: Embedding vs Attention and FFW Param Counts
 draft: false
 tags: 
 date: 2023-12-17
+linkedin-promo: false
 ---
 Sometimes getting into the weeds of an experiment makes dead-obvious facts hit you in the head so hard you feel like a dummy. That happened to me when pondering the results of the [[Residual Stream Data Lane]] experiments.
 

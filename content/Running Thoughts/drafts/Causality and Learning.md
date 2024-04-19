@@ -2,7 +2,8 @@
 title: Causality and Learning
 draft: true
 tags: 
-date:
+date: 
+linkedin-promo: false
 ---
  
 **Really great content** goes here :)

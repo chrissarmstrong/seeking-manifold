@@ -2,7 +2,8 @@
 title: "{{title}}"
 draft: true
 tags: 
-date:
+date: 
+linkedin-promo: false
 ---
 {{date}}
 ## The Idea

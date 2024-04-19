@@ -6,7 +6,7 @@ date: 2021-12-18
 ---
 ## Update 2024-03-04
 
-I put this page together in late 2021 when text-to-image generation was in its infancy and I was blown away by what was happening. Now it feels really outdated, almost quaint, and I leave it here as a kind of signpost of how quickly this field has advanced.
+I put this page together in late 2021 when text-to-image generation was in its infancy and I was blown away by what was happening. Now it feels really outdated, almost quaint, and I leave it here as a kind of signpost of how quickly this field has advanced, and a reminder of why I became motivated to dive into AI / ML.
 
 ## A Quick Intro
 

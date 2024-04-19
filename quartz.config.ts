@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     pageTitle: "Seeking Manifold",
     enableSPA: true,
     enablePopovers: true,
-    analytics: null,
+    analytics: { provider: 'google', tagId: 'G-36G4C3KH5F' },
     locale: "en-US",
     baseUrl: "chrissarmstrong.github.io/seeking-manifold",
     ignorePatterns: ["private", "templates", ".obsidian"],

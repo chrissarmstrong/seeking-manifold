@@ -3,6 +3,7 @@ title: GPT Visualizations
 draft: false
 tags: 
 date: 2024-04-02
+linkedin-promo: false
 ---
 This morning I found out about [this really great visualization of several GPT models](https://bbycroft.net/llm). I spent 15 minutes playing with it and kind of having my mind blown. Give it a try, noting that:
 1. There are four models present; click on the four model buttons at the top to orient yourself
@@ -21,7 +22,7 @@ If we zoom in a bit you can see some of the detail. Brendan's amazing visualizat
 
 ![[nano-gpt-visualization-zoom2.png]]
 
-Now we zoom *way* out, so that nanoGPT is just a teeny-tiny dot, and we see the (relative) colossus GPT-2 small, at 124M params:
+Now we zoom *way* out, so that nanoGPT is just a teeny-tiny dot, and on the left we see the (relative) colossus GPT-2 small, at 124M params:
 
 ![[gpt-2-small-visualization.png]]
 
@@ -29,7 +30,7 @@ Keep zooming out, and eventually we see GPT-2 XL on the right (1.6B params). Nan
 
 ![[gpt-2-xl-visualization.png]]
 
-Keep on going, and eventually we see GPT-3, at 175B params (2 million times as many weights as nanoGPT, which we barely even notice second from the left):
+Zoom out yet further, and eventually we see GPT-3, at 175B params (2 million times as many weights as nanoGPT, which we barely even notice second from the left):
 
 ![[gpt-3-visualization.png]]
 

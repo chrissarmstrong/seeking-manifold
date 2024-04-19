@@ -3,6 +3,7 @@ title: (Another) 'Bitter Lesson' Beating
 draft: false
 tags: 
 date: 2024-02-26
+linkedin-promo: false
 ---
 I keep getting beat over the head with [Sutton's Bitter Lesson](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf).
 

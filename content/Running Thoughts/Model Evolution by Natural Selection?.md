@@ -3,6 +3,7 @@ title: Model Evolution by Natural Selection?
 draft: false
 tags: 
 date: 2024-04-16
+linkedin-promo: false
 ---
 Two trends I find fascinating are fine-tuning of models and performing model merges. Most of you are probably familiar with these concepts, but a few words in case you aren't.
 
@@ -34,7 +35,7 @@ At face value it seems clear that this idea—of creating variants of models, me
 
 Have we have created the conditions necessary for our AIs to evolve by natural selection?!
 
-While this is a really interesting and even exciting thought, it is also somewhat troubling. Invoking evolution in systems that are becoming quite capable in many tasks and that we really don't understand is a bit scary.
+Intellectually this is a really interesting and even exciting thought. But triggering evolution in systems that are becoming quite capable in many tasks and that we really don't understand should also be rather troubling.
 
 Evolution can result in some scary shit. If you don't think that's the case, it may be that our collective civilizational respite from the harsher realities of survival among evolved organisms has allowed you to forget that [nature is metal](https://www.reddit.com/r/natureismetal/).
 
@@ -50,8 +51,8 @@ Looking for weaknesses in this line of thinking, I posed the following query to 
 >
 >Give me well-reasoned arguments *against* this line of thinking. They could be arguments that for some reason we are not creating the conditions for evolution by natural selection in AIs, or arguments that the Lewontin conditions do not apply to this situation, or arguments that the Lewontin conditions are somehow not correct, or arguments that evolution by natural selection somehow does not apply to AI systems, or other arguments altogether.
 
-I won't post the LLM responses here (I encourage you to try it), but I did get some interesting ones. They were articulate and thoughtful, albeit not completely convincing.
+I won't post the LLM responses here (I encourage you to try it), but I did get some interesting ones. They were articulate and thoughtful, albeit not terribly convincing.
 
-But most interesting of all is the fact that my inclination was to ask AIs about this situation in the first place!
+Perhaps most interesting is the fact that my inclination was to ask AIs about this situation in the first place!
 
 [^1]: Although the resources needed for pretraining are decreasing pretty quickly. It may be that in a few years it is within reach to pretrain your own rather large model from scratch.

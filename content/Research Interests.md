@@ -19,7 +19,7 @@ Here's a laundry list of research topics I'm interested in:
 	- Mixture of Experts (MoE)
 	- Text diffusion, Vec2Text
 	- Reservoir computing
-	- GLOM
+	- GLOM / capsule networks
 	- Diffusion models
 - Alignment
 	- Mechanistic interpretability

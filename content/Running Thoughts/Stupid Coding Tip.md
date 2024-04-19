@@ -3,10 +3,11 @@ title: Stupid Coding Tip
 draft: false
 tags: 
 date: 2024-04-04
+linkedin-promo: false
 ---
 It's really important to be able to follow the dimensionality of tensors as they move through a neural network. I love using Visual Studio Code debugging for this. But sometimes running an entire model just to do this debugging piece can be really cumbersome (setting up a bunch of libraries in a conda environment, etc.). And sometimes—as in the case for me today—I can't even fit the model (Mixtral) on my machine.
 
-Here's my stupid tip, which applies if the model code you want to run is relatively decoupled from other dependencies. The idea is obvious enough that any experienced programmer is like 'whatevs', but I've never seen it shown before, so here goes...
+Here's my stupid tip, which applies if the model code you want to run is relatively decoupled from other dependencies. The idea is obvious enough that any experienced programmer is like 'whatevs', but I've never seen it shown before, so here you go...
 
 I grab the code in question, drop it in a python file (using some generic environment that has torch and transformers), add whatever imports are necessary. Add code to instantiate classes and supply config and inputs. Basically do whatever you need to do to get the code to run.
 

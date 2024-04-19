@@ -2,7 +2,8 @@
 title: Predictive Coding
 draft: true
 tags: 
-date:
+date: 
+linkedin-promo: false
 ---
 (#talk about curiosity too#)
 
