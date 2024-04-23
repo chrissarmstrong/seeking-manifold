@@ -13,8 +13,11 @@ In the spring of 2023 I decided to [[Leaving Verizon|quit my day job]], if only 
 
 >[!tip] The Main Things
 >- [[Experiments/|A collection of modest experiments]]
->- [[Experiment Ideas/|Some experiment ideas]]
+>- [[Experiment Ideas/|Experiment ideas]]
 >- [[Running Thoughts/|Some running thoughts]]
+>
+>Or
+>- [[tags/post|Everything in one big list (most recent at the top)]]
 
 ## Additional tidbits
 

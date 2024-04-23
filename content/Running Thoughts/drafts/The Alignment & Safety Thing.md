@@ -1,7 +1,8 @@
 ---
 title: The Alignment & Safety Thing
 draft: true
-tags: 
+tags:
+  - draft
 date: 
 linkedin-promo: false
 ---

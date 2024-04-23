@@ -1,7 +1,8 @@
 ---
 title: Stupid Coding Tip
 draft: false
-tags: 
+tags:
+  - post/thought
 date: 2024-04-04
 linkedin-promo: false
 ---

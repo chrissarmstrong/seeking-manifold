@@ -1,7 +1,8 @@
 ---
 title: Deck Renovation!
 draft: false
-tags: 
+tags:
+  - post/home-garden
 date: 2024-04-06
 ---
 When I decided to take a year off to study AI / ML, as part of the deal I cavalierly told my wife that I'd redo our deck.

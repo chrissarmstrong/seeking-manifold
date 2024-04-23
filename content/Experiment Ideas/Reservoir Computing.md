@@ -1,7 +1,8 @@
 ---
 title: Reservoir Computing
 draft: false
-tags: 
+tags:
+  - post/idea
 date: 2024-04-14
 linkedin-promo: false
 ---

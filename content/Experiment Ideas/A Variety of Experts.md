@@ -1,7 +1,8 @@
 ---
 title: A Variety of Experts
 draft: false
-tags: 
+tags:
+  - post/idea
 date: 2024-04-04
 ---
 I'm starting to play around a bit with a (very scaled down) mixture of experts (MoE) model. A few quick ideas that have come to mind:

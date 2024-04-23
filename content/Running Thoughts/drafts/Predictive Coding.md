@@ -1,7 +1,8 @@
 ---
 title: Predictive Coding
 draft: true
-tags: 
+tags:
+  - draft
 date: 
 linkedin-promo: false
 ---

@@ -1,7 +1,8 @@
 ---
 title: GPT Visualizations
 draft: false
-tags: 
+tags:
+  - post/thought
 date: 2024-04-02
 linkedin-promo: false
 ---

@@ -1,7 +1,8 @@
 ---
 title: Model Evolution by Natural Selection?
 draft: false
-tags: 
+tags:
+  - post/thought
 date: 2024-04-16
 linkedin-promo: false
 ---

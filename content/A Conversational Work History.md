@@ -1,7 +1,8 @@
 ---
 title: A Conversational Work History
 draft: false
-tags: 
+tags:
+  - post
 date: 2024-02-03
 ---
 Consider this a kind of 'conversational resume', like what you'd get if you quizzed me in person on my work history. If you want the formal 'toot your own horn' version, [here you go](https://www.dropbox.com/scl/fi/alljun2t0wxu5brxjj496/Chris_Armstrong_resume_public_2024.03.pdf?rlkey=hd1u77qtpz7khvpirnkpav998&dl=0).
@@ -44,7 +45,7 @@ I departed because the web was taking off, and I really felt an urge to be part 
 
 ## Physics @ William & Mary
 
-My PhD is in hadronic physics (experimental), from [W&M](https://www.wm.edu/). My research was done at Jefferson Lab (above) and involved an experiment looking into behavior of a particular resonance of the proton. You can find my dissertation [here](https://www.dropbox.com/scl/fi/9rmzv5ib6iunr9cu7v0p9/Chris_Armstrong_thesis_public.pdf?rlkey=jafuelofn54fougnngy33twbb&dl=0). I think the topic is very cool, and I'm always puzzled that others are interested only when battling insomnia  :-P
+My PhD is in hadronic physics (experimental), from [W&M](https://www.wm.edu/). My research was done at Jefferson Lab (above) and involved an experiment looking into behavior of a particular resonance of the proton. You can find my dissertation [here](https://www.dropbox.com/scl/fi/9rmzv5ib6iunr9cu7v0p9/Chris_Armstrong_thesis_public.pdf?rlkey=jafuelofn54fougnngy33twbb&dl=0). I think the topic is very cool, and I'm always puzzled that others are interested only when battling insomnia  😛
 
 ## Electrical engineering @ University of VA
 

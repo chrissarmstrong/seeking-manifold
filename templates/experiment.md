@@ -1,7 +1,8 @@
 ---
 title: "{{title}}"
 draft: true
-tags: 
+tags:
+  - draft
 date: 
 linkedin-promo: false
 ---

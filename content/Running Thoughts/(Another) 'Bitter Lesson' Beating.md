@@ -1,7 +1,8 @@
 ---
 title: (Another) 'Bitter Lesson' Beating
 draft: false
-tags: 
+tags:
+  - post/thought
 date: 2024-02-26
 linkedin-promo: false
 ---

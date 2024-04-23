@@ -1,7 +1,8 @@
 ---
 title: CLIP Guided Diffusion
 draft: false
-tags: 
+tags:
+  - post
 date: 2021-12-18
 ---
 ## Update 2024-03-04
@@ -34,7 +35,7 @@ Let's start with this search: "Victorian Era Portrait of a Woman". So again, I'm
 
 ![[array-victorian.png|Victorian Era Portrait of a Woman]]
 
-And in this case, the first 5 images CLIP selected were in fact created using that prompt or one very similar (e.g., "Victorian era portrait"). The last image, it turns out, was created with the prompt "Window into a beautiful soul #artstation", but you can see how it's not _too_ bad a match for a Victorian era portrait!
+And in this case, the first 5 images CLIP selected were in fact created using that prompt or one very similar (e.g., "Victorian era portrait"). The last image, it turns out, was created with the prompt "Window into a beautiful soul `#artstation`", but you can see how it's not _too_ bad a match for a Victorian era portrait!
 
 ## Beautiful Orchid
 
@@ -42,7 +43,7 @@ Here CLIP is finding the images in my favorites that it thinks most closely matc
 
 ![[array-beautiful-orchid2.png|Beautiful Orchid]]
 
-And in fact all of these images were produced with that prompt or a similar one (e.g., "beautiful orchid #artstation" or "watercolor of an orchid").
+And in fact all of these images were produced with that prompt or a similar one (e.g., "beautiful orchid `#artstation"` or "watercolor of an orchid").
 
 ## Beautiful Colorful Fish
 
@@ -98,7 +99,7 @@ It's cool how some of the Old Father Times incorporate the notion of a clock.
 
 ![[array-sand-in-the-hourglass.png|Sand in the Hourglass]]
 
-The first five here were generated with the prompt "sand in the hourglass #artstation"; the last was "leonardo da vinci invention sketch".
+The first five here were generated with the prompt "sand in the hourglass `#artstation"`; the last was "leonardo da vinci invention sketch".
 
 ## Old European Town at Christmas time (oil on canvas)
 
@@ -172,7 +173,7 @@ Note that we sometimes get attempts at artist signatures on paintings.
 
 I like the doggo through the window. Good boy!
 
-Funny here that image 5 is supposed to be an eye of Sauron, and the prompt for image 6 was "conquering the dark fear within #artstation". Beautiful soul indeed.
+Funny here that image 5 is supposed to be an eye of Sauron, and the prompt for image 6 was "conquering the dark fear within `#artstation"`. Beautiful soul indeed.
 
 ## Hearts and Flowers
 

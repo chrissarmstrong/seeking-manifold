@@ -1,7 +1,8 @@
 ---
 title: Leaving Verizon
 draft: false
-tags: 
+tags:
+  - post
 date: 2023-06-19
 ---
 Back in 2017 some folks at Verizon (most notably [Lori Croushore](https://www.linkedin.com/in/lori-croushore/) and [Alla Reznik](https://www.linkedin.com/in/allareznik/)) were willing to go out on a limb and hire me (and [Karen Tuttle](https://www.linkedin.com/in/karentuttle/), my partner in crime) to help launch their first foray into AI-driven contact center automation. It was a great experience: doing build-vs-buy-vs-partner analysis was enlightening, the project had lots of energy, and we eventually landed on a partnership with an exceptional team at Astute (now Emplifi).

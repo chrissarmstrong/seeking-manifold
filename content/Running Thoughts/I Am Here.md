@@ -1,7 +1,8 @@
 ---
 title: I Am Here
 draft: false
-tags: 
+tags:
+  - post/thought
 date: 2024-03-20
 ---
 ![[Pasted image 20240320102938.png|800]]

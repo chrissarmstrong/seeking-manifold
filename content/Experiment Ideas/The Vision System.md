@@ -1,7 +1,8 @@
 ---
 title: The Vision System
 draft: false
-tags: 
+tags:
+  - post/idea
 date: 2024-04-01
 linkedin-promo: false
 ---
@@ -25,7 +26,7 @@ The eye has a number of different mechanisms related to motion. Some, like verge
 
 ## Interaction with the 3D world
 
-Geoff Hinton has long argued that we should be paying close attention to evidence from human perception, as it contains clues that are valuable for designing artificial NNs.[^2] He has often pointed to his ['cube on a corner' demonstration](https://www.cs.toronto.edu/~hinton/absps/cube.pdf) as evidence that humans have built-in mechanisms to handle 3D symmetries, and that this has implications for how we perceive the world and how we learn.
+Geoffrey Hinton has long argued that we should be paying close attention to evidence from human perception, as it contains clues that are valuable for designing artificial NNs.[^2] He has often pointed to his ['cube on a corner' demonstration](https://www.cs.toronto.edu/~hinton/absps/cube.pdf) as evidence that humans have built-in mechanisms to handle 3D symmetries, and that this has implications for how we perceive the world and how we learn.
 
 Hinton and colleagues worked for years on ideas related to this. The series of papers related to his 'capsule' concepts are a good resource.
 
@@ -36,9 +37,9 @@ Here is a quick sampling of ideas related to the above that have been swirling i
 - Are eye saccades somehow critical to allow recognition of parts and assembling them into a whole?
 - Are eye saccades somehow key to the learning process in the visual system? For example, do they provide a contrastive signal to the system (for example, as discussed in [the CLAPP paper](https://arxiv.org/abs/2010.08262) by Illing et al.)? Do they afford some sort of attentional or energy efficiency?
 - How does [visual 'crowding'](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2772078/) fit into the picture? This effect seems like a shortcoming or side effect of our vision system, but is it important in some way?
-- Could eye motion may play into the concept of 'fast weights' in a system? Hinton touched on fast weights briefly at the end of his [Turing Award acceptance speech](https://www.youtube.com/live/VsnQf7exv5I?si=qziCSCKyerZ3JNNW&t=2375) (though his focus there was not vision-related).
+- Could eye motion play into the concept of 'fast weights' in a system? Hinton touched on fast weights briefly at the end of his [Turing Award acceptance speech](https://www.youtube.com/live/VsnQf7exv5I?si=qziCSCKyerZ3JNNW&t=2375) (though his focus there was not vision-related).
 
-All of this to say: it seems like there is an entire research program out there for a group that wants to undertake it! I've started to [[CIFAR for Video (Towards Simulated Environments for Self-Supervised Learning)|dabble just a bit]].
+All of this to say: it seems like there is an entire research program out there for a group that wants to undertake it! I've started to [[CIFAR for Video|dabble just a bit]].
 
 
 [^1]: [Insights from the Brain](https://www.insightsfromthebrain.com/), by Matthieu Thiboust, is a great place to start

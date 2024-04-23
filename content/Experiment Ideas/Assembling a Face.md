@@ -1,7 +1,8 @@
 ---
 title: Assembling a Face
 draft: false
-tags: 
+tags:
+  - post/idea
 date: 2024-04-18
 linkedin-promo: false
 ---

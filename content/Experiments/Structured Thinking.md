@@ -1,7 +1,8 @@
 ---
 title: Structured Thinking
 draft: false
-tags: 
+tags:
+  - post/experiment
 date: 2022-12-03
 linkedin-promo: false
 ---

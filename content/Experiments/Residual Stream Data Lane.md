@@ -1,7 +1,8 @@
 ---
 title: Residual Stream Data Lane
 draft: false
-tags: 
+tags:
+  - post/experiment
 date: 2023-12-17
 linkedin-promo: false
 ---

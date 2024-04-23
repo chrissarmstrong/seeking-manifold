@@ -1,7 +1,8 @@
 ---
 title: Embedding vs Attention and FFW Param Counts
 draft: false
-tags: 
+tags:
+  - post/thought
 date: 2023-12-17
 linkedin-promo: false
 ---

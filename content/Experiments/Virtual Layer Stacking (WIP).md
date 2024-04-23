@@ -1,7 +1,8 @@
 ---
 title: Virtual Layer Stacking (WIP)
 draft: false
-tags: 
+tags:
+  - post/experiment
 date: 2024-02-27
 linkedin-promo: false
 ---

@@ -1,9 +1,9 @@
 ---
 title: Causality and Learning
 draft: true
-tags: 
+tags:
+  - draft
 date: 
 linkedin-promo: false
 ---
- 
-**Really great content** goes here :)
+(#this may be redundant with [[Time as a First-Class Citizen]]#)

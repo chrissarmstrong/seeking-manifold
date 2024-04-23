@@ -1,7 +1,8 @@
 ---
 title: Research Interests
 draft: false
-tags: 
+tags:
+  - post
 date: 2024-04-12
 ---
 Here's a laundry list of research topics I'm interested in:

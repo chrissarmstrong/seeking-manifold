@@ -1,7 +1,8 @@
 ---
 title: Courses and Learning Materials
 draft: true
-tags: 
+tags:
+  - post
 date:
 ---
 Some commentary on courses and learning materials I have experience with.

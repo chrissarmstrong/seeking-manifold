@@ -1,7 +1,8 @@
 ---
 title: Low Rank Substitution
 draft: false
-tags: 
+tags:
+  - post/experiment
 date: 2023-12-22
 linkedin-promo: false
 ---
