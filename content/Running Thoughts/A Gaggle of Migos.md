@@ -12,7 +12,7 @@ It occurred to me after writing that piece that if you aren't one of the folks w
 
 Many people presumably are exposed to LLMs by using ChatGPT (the OG of truly modern LLMs) or one of the many similar ones trained and hosted by other companies. There are a lot of really good ones out there, if you're looking for *answers to questions* instead of, say, a list of search hits. I personally like You.com, Phind, and Perplexity, and I use them every day. There are also ones from Google, Microsoft, and others.
 
-But those LLMs are designed specifically to be assistants that help you out without ever offending or doing anything untoward. Their corporate owners (understandably) do not want to be responsible for a modern-day [Tay](https://en.wikipedia.org/wiki/Tay_(chatbot)). As a result, these bots are the epitome of anodyne. And if this type of bot is all you've seen, *you really need to get out more often*.
+But those LLMs are designed specifically to be assistants that help you out without ever offending or doing anything untoward. Their corporate owners (understandably) do not want to be responsible for a modern-day [Tay](https://en.wikipedia.org/wiki/Tay_(chatbot)). As a result, these bots are the epitome of anodyne. And if this type of bot is all you've seen, *you really need to get out and meet more bots* 😛
 
 What I want to do here is take you through a quick and hopefully interesting and enlightening exploration of what a modern, relatively small LLM is capable of.
 
