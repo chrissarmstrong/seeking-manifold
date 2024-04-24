@@ -26,7 +26,7 @@ My Migo will spend cycles defending me against online trolls, spam, even cyberat
 
 If you are depressed or endangered your Migo may realize that and take actions that save your life.
 
-My Migo may work with you and your Migo to plan an intervention for me.
+My Migo may work with you and your Migo to stage an intervention for me.
 
 I will get mad at my Migo for having made a mistake or missed something it should have warned me about.
 
