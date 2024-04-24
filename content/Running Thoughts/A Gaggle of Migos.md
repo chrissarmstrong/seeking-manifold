@@ -80,11 +80,14 @@ Ms. Wise def knows the subject matter as well.
 
 ![[immunity-flux.png]]
 
-Yikes!
+*hiss??*
 
-Then again, I'm represented by a mouse. I should be thankful it ended like that 😅
+Yikes! Then again, I'm represented by a mouse. I should be thankful it ended like that 😅
 
-At any rate, I hope that gave you a sense of the diversity that exists within a single LLM, and what interacting with one can be like. The thing has been trained on *many* more books and articles than you or I will ever read, and so it has been exposed to all kinds of stuff! You just have to tease it out.
+At any rate, I hope that gave you a sense of the diversity that exists within a single LLM, and what interacting with one can be like. The thing has been trained on *many* more books and articles than you or I will ever read, and so it has been exposed to all kinds of stuff. You just have to tease it out.
+
+I also think about it like this: This may well be the *least* capable, *least* knowledgeable language model I'll interact with in the future. In a few years I will look back on this post like I now look back on [[CLIP Guided Diffusion|my old post about early text-to-image systems]]: "Aww, how quaint!"
+
 
 [^1]: I'm not into role play, per se, but I do use the tools to do the sort of model exploration I show in this post.
 
