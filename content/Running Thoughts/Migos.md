@@ -4,7 +4,7 @@ draft: false
 tags:
   - post/thought
 date: 2024-03-11
-linkedin-promo: false
+linkedin-promo: true
 ---
 *tl;dr: We're on the verge of having AI life companions. This is going to get **very** interesting.*
 

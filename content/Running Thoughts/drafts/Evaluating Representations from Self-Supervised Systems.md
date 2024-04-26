@@ -70,9 +70,11 @@ One of the challenges here would be differentiating between a signal for general
 
 ## 3. Add a generative capability
 
-The most obvious solution to this problem (to me) is to simply add a generative capability to the system. This allows the system to communicate with us in a way we can understand.
+The most obvious (and intuitively satisfying) solution to this problem (to me) is to add a generative capability to the system. This allows the system to communicate with us in a way we can understand.
 
 This approach assumes that we have some way of translating from a representation space to whatever domain we want for our communication. Usually this is accomplished by training an autoencoder to perform the mapping between the spaces.
+
+
 
 ## 4. Skill acquisition
 
