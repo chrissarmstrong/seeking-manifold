@@ -4,7 +4,7 @@ draft: false
 tags:
   - post/thought
 date: 2024-03-15
-linkedin-promo: false
+promo-linkedin:
 ---
 I'm so tired of hearing people like ███ ███████[^1] go on (in interviews or talks) spouting multiple poorly-supported points in rapid succession. It's like he wields a bump-stock for BS.
 

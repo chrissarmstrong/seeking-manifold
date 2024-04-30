@@ -4,7 +4,7 @@ draft: false
 tags:
   - post/thought
 date: 2024-04-16
-linkedin-promo: false
+promo-linkedin:
 ---
 Two trends I find fascinating are fine-tuning of models and performing model merges. Most of you are probably familiar with these concepts, but a few words in case you aren't.
 

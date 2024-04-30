@@ -4,7 +4,7 @@ draft: false
 tags:
   - post/thought
 date: 2024-04-22
-linkedin-promo: false
+promo-linkedin:
 ---
 Over the last several months I've spent a fair amount of time [[Residual Stream Data Lane|training small language models]] on [small datasets](https://huggingface.co/datasets/roneneldan/TinyStories).
 

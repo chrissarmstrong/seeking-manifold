@@ -4,7 +4,7 @@ draft: false
 tags:
   - post/idea
 date: 2024-04-21
-linkedin-promo: false
+promo-linkedin:
 ---
 A while back [Anna Ivanova was on the TWiML podcast](https://twimlai.com/podcast/twimlai/does-chatgpt-think-a-cognitive-neuroscience-perspective/) and raised an excellent point: the written language that LLMs are trained on is subject to 'reporter bias'; that is, it tends to be biased towards the *unusual* (purple bananas, black swans) as opposed to what everyone views as *obvious* (wheels are round). This lack of 'obvious' information is presumably why LLMs struggle with things that we consider common sense.
 

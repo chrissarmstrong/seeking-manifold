@@ -4,7 +4,7 @@ draft: false
 tags:
   - post/thought
 date: 2024-03-17
-linkedin-promo: false
+promo-linkedin:
 ---
 I believe that if we want to have systems that truly understand the physical world and causality it will help enormously, and may be crucial, to have a visual understanding of the 3D world. When I started thinking about video experiments that could take cues from [[The Vision System|the human vision system]], one of the first things I did was to try to find the video analog of [the CIFAR dataset](https://www.cs.toronto.edu/~kriz/cifar.html).
 

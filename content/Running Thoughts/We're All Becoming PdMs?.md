@@ -4,7 +4,7 @@ draft: false
 tags:
   - post/thought
 date: 2024-04-20
-linkedin-promo: false
+promo-linkedin:
 ---
 It wasn't long after the release of ChatGPT when many of us began to think through how this new technology would change our lives. Since then there has been this idea floating around that we'll all soon have a bunch of assistants at our beck and call. I've used this 'gaggle of assistants' analogy myself when talking to people about how our jobs and lives will change.
 

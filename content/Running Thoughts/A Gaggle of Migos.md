@@ -4,7 +4,7 @@ draft: false
 tags:
   - post/thought
 date: 2024-04-23
-linkedin-promo: false
+promo-linkedin: 2024-04-26
 ---
 A while back I posted some musings about the ramifications of [[Migos|the Migos we will all soon have in our lives]].
 

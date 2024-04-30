@@ -4,7 +4,7 @@ draft: true
 tags:
   - draft
 date: 
-linkedin-promo: false
+promo-linkedin:
 ---
  
 **Really great content** goes here :)

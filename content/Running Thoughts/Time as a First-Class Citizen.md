@@ -4,7 +4,7 @@ draft: false
 tags:
   - post/thought
 date: 2023-03-18
-linkedin-promo: false
+promo-linkedin:
 ---
 One of the things that has bothered me the most since starting to learn about AI / ML systems is that they often treat the passage of time as a second-class citizen, if at all.
 

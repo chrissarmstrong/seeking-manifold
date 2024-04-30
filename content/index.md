@@ -29,3 +29,6 @@ And here are some of my [[Research Interests|research interests]]:
 
 ![[Research Interests.png]]
 
+Finally, some ancillary stuff:
+- [[Home & Garden/|Home & Garden things]]
+- [[Unwoven Rainbow/|Some blog posts from the 2007—2010 era]]

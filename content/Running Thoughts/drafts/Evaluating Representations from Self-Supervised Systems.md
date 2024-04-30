@@ -4,7 +4,7 @@ draft: true
 tags:
   - draft
 date: 
-linkedin-promo: false
+promo-linkedin:
 ---
 Some of the larger issues in AI that have come to the fore recently are around how we get systems to understand causality, to think and act hierarchically, and to reason. I've been paying attention to what Yann LeCun has been saying on these topics, and I think he makes a lot of sense.
 
@@ -58,7 +58,11 @@ As noted above: can we use internal representations for some task that proves th
 - conservation of physical properties
 - anomaly identification
 
+
+
 Note that in many cases these approaches for testing internal representations may *also* require the use of other techniques like those listed below (to understand or interpret the results).
+
+(#This could also include finding interpretations of representations that make sense in the real world, a la OthelloGPT's board game representation#)
 
 ## 2. Signal as a 'probe'
 
@@ -74,9 +78,15 @@ The most obvious (and intuitively satisfying) solution to this problem (to me) i
 
 This approach assumes that we have some way of translating from a representation space to whatever domain we want for our communication. Usually this is accomplished by training an autoencoder to perform the mapping between the spaces.
 
+(#Examples:
+- Generating text or images or videos
+#)
 
+## 4. Low energy between time steps
 
-## 4. Skill acquisition
+(#The JEPA way, as long as there is no collapse?#) <- isn't this analogous to the surprise probe?
+
+## 5. Skill acquisition
 
 Chollet argues that [we should identify intelligence by looking for the ability to quickly acquire new skills](https://arxiv.org/abs/1911.01547).
 
@@ -86,6 +96,8 @@ I definitely need to talk to Yann about all of this to see what he has in mind :
 
 
 (#working#)
+
+(#4.5.2 (p. 29) of *The Path* talks a wee bit about biasing a JEPA system towards representations relevant to a class of tasks#)
 
 (#don't we seem to have some sort of generative capabilities in our imagination? I can certainly generate imagined scenes, etc.#)
 

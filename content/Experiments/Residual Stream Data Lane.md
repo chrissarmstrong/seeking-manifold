@@ -4,7 +4,7 @@ draft: false
 tags:
   - post/experiment
 date: 2023-12-17
-linkedin-promo: false
+promo-linkedin:
 ---
 ## The Idea
 

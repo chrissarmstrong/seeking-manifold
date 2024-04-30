@@ -4,7 +4,7 @@ draft: false
 tags:
   - post/experiment
 date: 2024-02-27
-linkedin-promo: false
+promo-linkedin:
 ---
 ## The Idea
 

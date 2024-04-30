@@ -4,7 +4,7 @@ draft: false
 tags:
   - post/thought
 date: 2024-04-04
-linkedin-promo: false
+promo-linkedin:
 ---
 It's really important to be able to follow the dimensionality of tensors as they move through a neural network. I love using Visual Studio Code debugging for this. But sometimes running an entire model just to do this debugging piece can be really cumbersome (setting up a bunch of libraries in a conda environment, etc.). And sometimes—as in the case for me today—I can't even fit the model (Mixtral) on my machine.
 

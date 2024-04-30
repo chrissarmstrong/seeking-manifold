@@ -4,7 +4,7 @@ draft: false
 tags:
   - post/idea
 date: 2024-04-20
-linkedin-promo: false
+promo-linkedin:
 ---
 This is an ongoing exploration in a set of ideas I've been thinking about related to the role that the ventral / dorsal split, the fovea, and eye saccades play in development of intelligence.
 

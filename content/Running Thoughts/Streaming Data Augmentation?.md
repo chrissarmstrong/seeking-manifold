@@ -4,7 +4,6 @@ draft: false
 tags:
   - "#post/thought"
 date: 2023-01-02
-linkedin-promo: false
 ---
 With visual systems we typically make heavy use of data augmentation (cropping, resizing, rotation, color modification, etc.). This serves two purposes:
 - It adds to the data we have;

@@ -4,7 +4,7 @@ draft: true
 tags:
   - draft
 date: 
-linkedin-promo: false
+promo-linkedin:
 ---
  (#Talk about LeCun's views.#)
  

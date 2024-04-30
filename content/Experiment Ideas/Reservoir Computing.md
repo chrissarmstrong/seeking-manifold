@@ -4,7 +4,7 @@ draft: false
 tags:
   - post/idea
 date: 2024-04-14
-linkedin-promo: false
+promo-linkedin:
 ---
 Sometime around the summer of 2021 I came across the paper [Pretrained Transformers as Universal Computation Engines](https://arxiv.org/abs/2103.05247) (Lu et al., 2021), and was blown away. In this paper the team from UC Berkeley, FAIR, and Google took a GPT-2 (pretrained as a language model in the usual way), then froze the self attention and feed forward parameters (keeping the embedding / output layer and layer norm params trainable). The learned parameters accounted for well under 1% of the total model params.
 

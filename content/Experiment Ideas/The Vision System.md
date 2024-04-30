@@ -4,7 +4,7 @@ draft: false
 tags:
   - post/idea
 date: 2024-04-01
-linkedin-promo: false
+promo-linkedin:
 ---
 In late 2022 I began to think that we should really be looking to biological systems for clues about how evolution has solved for intelligent systems (to which a reasonable reaction would be "Duh!"). After a few months learning a bit about neuroscience[^1], one of the subjects I got very interested in is the vision system (in humans and other mammals, primarily).
 

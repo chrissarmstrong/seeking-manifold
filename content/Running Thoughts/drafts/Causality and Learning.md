@@ -4,6 +4,6 @@ draft: true
 tags:
   - draft
 date: 
-linkedin-promo: false
+promo-linkedin:
 ---
 (#this may be redundant with [[Time as a First-Class Citizen]]#)

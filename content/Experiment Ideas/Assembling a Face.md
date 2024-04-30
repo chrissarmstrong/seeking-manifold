@@ -4,7 +4,7 @@ draft: false
 tags:
   - post/idea
 date: 2024-04-18
-linkedin-promo: false
+promo-linkedin:
 ---
 [This post](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b) about Hinton's capsule network concept makes the following claim:
 

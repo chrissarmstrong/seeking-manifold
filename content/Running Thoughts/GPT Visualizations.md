@@ -4,7 +4,7 @@ draft: false
 tags:
   - post/thought
 date: 2024-04-02
-linkedin-promo: false
+promo-linkedin:
 ---
 This morning I found out about [this really great visualization of several GPT models](https://bbycroft.net/llm). I spent 15 minutes playing with it and kind of having my mind blown. Give it a try, noting that:
 1. There are four models present; click on the four model buttons at the top to orient yourself
