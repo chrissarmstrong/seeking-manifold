@@ -1,7 +1,7 @@
 ---
 title: Unwoven Rainbow Archives
 draft: false
-tags:
+tags: 
 ---
 ![[The Unwoven Rainbow.png|200]]
 
@@ -11,4 +11,4 @@ At the time I was convinced that two huge issues were about to bear down on huma
 
 I can credit my waking up to that entire situation to getting (back) into biking, learning to garden, thinking more about renewables, etc. For that I'm grateful.
 
-This was also a period in which my mother was finally losing her struggle with Parkinson's disease, and a few posts reflect on that.
+This was also a period in which my mother was finally losing her long struggle with Parkinson's disease, and a few posts reflect on that.

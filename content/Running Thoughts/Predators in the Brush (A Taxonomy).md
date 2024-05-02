@@ -6,17 +6,17 @@ tags:
 date: 2023-04-16
 promo-linkedin:
 ---
-The heat is breaking now as the sun begins to set over the low mountains in the distance ahead of us. The five shadows of those in front have grown long, stretching back towards me over the golden grass.
+The heat is breaking now as the sun begins to set over the low mountains in the distance ahead of us. The five shadows of those in front have grown long, stretching back towards me over the golden grass of the savanna.
 
-The breeze, which has been blowing all day, is now cooling. There is a constant hum of insects all around.
+The breeze, which has been blowing most of the day, is now cooling. There is a constant hum of insects all around.
 
-We all know that we need to push on so that we make it to the foothills before it gets dark. This is not a place to be after the sun has set.
+We know that we need to push on so that we make it to the foothills before it gets dark. This is not a place to be after the sun has set.
 
-That is when it happens: a hush spreads out over the million insects until it is silent. This has not happened to me before, but I've heard stories about it. *You never forget*, they said. *It happens right before.*
+That is when it happens: a hush spreads out over the million insects until it is silent. Only the slightest rustling of the grass in the breeze. This has not happened to me before, but I've heard stories about it. *You never forget*, they said. *The silence happens first.*
 
 At first I think maybe I'm imagining. But I see the others have stopped too. Maria turns back to look at me, her eyes growing wide. She has been walking with a long spear in one hand, and she raises it slowly.
 
-And then we hear it: a rustle, faint but unmistakable, from the thicket to our left. We are all frozen in place now, staring in the same direction, eyes scanning the brush for any sign of movement.
+And then we hear it: a rustle, faint but unmistakable, from the thicket to our left. Then a low rumbling noise. I think the earth beneath me shakes a bit. We are all frozen in place now, staring in the same direction, eyes scanning the brush for any sign of movement.
 
 *Don't move yet*, I tell myself, heart pounding. I look down at my left hand. It is shaking. My right hand finds the knife tucked into my waistband. *Get ready, but **don't move yet**.*
 
