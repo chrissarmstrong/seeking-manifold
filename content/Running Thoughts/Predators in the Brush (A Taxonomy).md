@@ -1,5 +1,5 @@
 ---
-title: Predators in the Brush (A Taxonomy)
+title: Predators in the Brush - A Taxonomy
 draft: false
 tags:
   - post/thought
