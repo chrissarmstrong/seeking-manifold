@@ -26,7 +26,7 @@ In the current ecosystem, people find the model variants that do best on some be
 
 All of this brings me to the point of today's post: a paper I read a while back, [Natural Selection Favors AIs over Humans](https://arxiv.org/abs/2303.16200) (2023). In this paper Dan Hendrycks lays out his arguments that AIs will be subject to evolution by natural selection by virtue of humans modifying and propagating the ones they find most useful, entertaining, etc. Sound familiar?
 
-Hendrycks reminds us of the Lewontin conditions, which many of us learned about in high school or university biology class. These are the conditions that need to be in place for evolution by natural selection to take place. In brief:
+Hendrycks reminds us of the Lewontin conditions, which many of us learned about in biology class in high school or university. These are the conditions necessary for evolution by natural selection to take happen. In brief:
 
 1. **Variation**: There must be variation in the phenotypes of a population. In other words, there must be differences in the traits of individuals within a population.
 2. **Heritability**: The variation that is expressed must be heritable. That is, these traits must be passed on from one generation to the next.
@@ -36,7 +36,7 @@ At face value it seems clear that this idea—of creating variants of models, me
 
 Have we have created the conditions necessary for our AIs to evolve by natural selection?!
 
-Intellectually this is a really interesting and even exciting thought. But triggering evolution in systems that are becoming quite capable in many tasks and that we really don't understand should also be rather troubling.
+Intellectually this is a really interesting and even exciting thought. But triggering evolution in systems that are becoming quite capable in many tasks—and that we *don't really understand*—should also be rather troubling.
 
 Evolution can result in some scary shit. If you don't think that's the case, it may be that our collective civilizational respite from the harsher realities of survival among evolved organisms has allowed you to forget that [nature is metal](https://www.reddit.com/r/natureismetal/).
 
@@ -52,7 +52,7 @@ Looking for weaknesses in this line of thinking, I posed the following query to 
 >
 >Give me well-reasoned arguments *against* this line of thinking. They could be arguments that for some reason we are not creating the conditions for evolution by natural selection in AIs, or arguments that the Lewontin conditions do not apply to this situation, or arguments that the Lewontin conditions are somehow not correct, or arguments that evolution by natural selection somehow does not apply to AI systems, or other arguments altogether.
 
-I won't post the LLM responses here (I encourage you to try it), but I did get some interesting ones. They were articulate and thoughtful, albeit not terribly convincing.
+I won't post the LLM responses here (I encourage you to try the exercise), but I did get some interesting ones. They were articulate and thoughtful, albeit not terribly convincing.
 
 Perhaps most interesting is the fact that my inclination was to ask AIs about this situation in the first place!
 
