@@ -4,7 +4,7 @@ draft: false
 tags:
   - post/thought
 date: 2023-04-16
-promo-linkedin:
+promo-linkedin: 2024-05-03
 ---
 The heat is breaking now as the sun begins to set over the low mountains in the distance ahead of us. The five shadows of those in front have grown long, stretching back towards me over the golden grass of the savanna.
 
@@ -32,7 +32,7 @@ I think it was in 2021 when I happened upon a piece by Eliezer Yudkowski. He imm
 
 It wasn't long before I realized that all around me there was a rather vociferous debate going on about how AI will play out. The positions that people had staked out are all the way from *AI poses no danger whatsoever and will be the saviour of humanity* to *We are all going to be killed by AI and I've made my peace with that*. wtf? Notably, there were very intelligent people all across that spectrum.
 
-The topic of AI risk also pulls me in multiple directions on a personal level. On one hand, I'm a [[Open Source Software|long-time advocate for open source]], and also believe that we should be pushing hard to democratize access to knowledge. And I'm a tech-inclined geek who enjoys tinkering with things. On the other hand, if some of the risks of AI are truly existential, I recognize the need for regulation and containment, even though that comes with its own very real set of problems.
+The topic of AI risk also pulls me in multiple directions on a personal level. On one hand, I'm a [[Open Source Software|long-time advocate for open source]], and also believe that we should be pushing hard to democratize access to knowledge. And I'm a tech-inclined geek who enjoys research and tinkering with things. On the other hand, if some of the risks of AI are truly existential, I recognize the need for regulation and containment, even though that comes with its own very real set of problems.
 
 This post began life for me, as a way to help me make sense of the AI alignment landscape; an attempt to articulate the taxonomy of these different risks posed by AI. Many people write more clearly and comprehensively about the risks associated with AI than I do, but often I find the need to work through things myself to better understand them. I expect my views to evolve as I consume more of the literature.
 
@@ -151,7 +151,7 @@ I've written a bit about this: [[Model Evolution by Natural Selection?]]
 
 Basically, to the extent that AI systems evolve because we've set up the conditions for it to happen, then that introduces a dynamic that we won't fully control and may not even understand.
 
-### Recursive improvement and superintelligence runaway?
+### Recursive self-improvement and superintelligence runaway?
 
 The timing and speed with which AI systems advance, as well as who is in charge of that advancement, are important factors in how things will play out. If systems become capable enough to iterate on their own design, then the situation could quickly get out of human control.
 
