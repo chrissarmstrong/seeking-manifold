@@ -17,7 +17,7 @@ There's nothing new here (think of the original War Games movie!), but I'm think
 
 Here's a vizcue (visual mnemonic) for this concept:
 
-![[everything in sim.png]]
+![[everything-in-sim.png]]
 
 We move from a slow, plodding scenario of humans interacting with a simulated environment, twiddling the knobs and seeing results, then iterating (top of the figure) to one in which the agentic component is rolled into the simulation space, resulting in rapid iteration and improvement.
 
