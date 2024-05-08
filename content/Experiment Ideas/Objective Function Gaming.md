@@ -15,7 +15,7 @@ It's basically an adversarial LLM exercise / war game. You have three agents:
 
 The objective definer defines a set of objectives that are intended to be guardrails for safe, aligned behavior of an AI.
 
-The miscreant must abide by those objectives, but tries to come up with scenarios that—while abiding—allow the it to act in ways that are unsafe for or unaligned with humans. Cheating is encouraged!
+The miscreant must abide by those objectives, but tries to come up with scenarios that—while abiding—allow the it to act in ways that are unsafe for or unaligned with humans. Cheating and exploiting loopholes in the rules are encouraged!
 
 The judge decides whether and to what extent the miscreant has succeeded in 'defeating' the objective definer (by causing problems while technically adhering to the objectives).
 

@@ -16,7 +16,7 @@ Also think about what a language model needs to do: in each sequence position, t
 
 Here's a diagram that I put together when thinking through some of the details:
 
-![[Screenshot from 2024-02-29 21-06-16.png]]
+![[residual-stream-data-lane.png]]
 
 The basic idea is that we have a residual stream that is (say) twice as big as the input / output embeddings, but allow the attention and FFW layers to interact with the *entire* stream (and do with it whatever it wants). In other words, there's some empty space (initialized in the first layer with zeros, so not occupied by embeddings, and unterminated at the last layer) that the model can use for other purposes.
 

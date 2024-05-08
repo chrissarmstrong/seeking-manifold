@@ -49,7 +49,7 @@ Do not modify any other text.
 
 In this case, the script offered up did the job perfectly.
 
-Here is another example, where I wanted to see what in my Obsidian files I'd been working on as a function of time:
+Here is another example, where I wanted to see what in my Obsidian files I'd been working on as a function of time (based on dates in headers):
 
 ```
 Please write a python function to take a directory as input and do the following:
