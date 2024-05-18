@@ -4,7 +4,7 @@ draft: false
 tags:
   - post/thought
 date: 2024-05-06
-promo-linkedin:
+promo-linkedin: 2024-05-08
 ---
 A few related threads converged for me this morning:
 1. Some recent thinking about [[Objective Function Gaming]].

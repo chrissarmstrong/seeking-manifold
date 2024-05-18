@@ -5,11 +5,11 @@ tags:
   - post
 date: 2024-02-03
 ---
-Consider this a kind of 'conversational resume', like what you'd get if you quizzed me in person on my work history. If you want the formal 'toot your own horn' version, [here you go](https://www.dropbox.com/scl/fi/alljun2t0wxu5brxjj496/Chris_Armstrong_resume_public_2024.03.pdf?rlkey=hd1u77qtpz7khvpirnkpav998&dl=0).
+Consider this a kind of 'conversational resume', like what you'd get if you quizzed me in person on my work history. If you want the formal 'toot your own horn' version, [here you go](https://www.dropbox.com/scl/fi/rsmpgyubcsykkp5zhzalb/Chris_Armstrong_resume_public_2024.03.pdf?rlkey=d8nuns4xgwyka7npeefuky1kz&st=26keymhb&dl=0).
 
 # A Glorious Self-Study Sabbatical
 
-My work since leaving Verizon is largely documented in [[Experiments/|Experiments]] and [[Experiment Ideas/|Experiment Ideas]] (and this entire site more generally).
+My work since leaving Verizon is largely documented in [[AI Experiments/|AI Experiments]] and [[Experiment Ideas/|Experiment Ideas]] (and this entire site more generally).
 
 # Verizon
 
@@ -17,7 +17,7 @@ I spent 6 years at [Verizon](https://www.verizon.com/) ('17 - '23) doing managem
 
 The role was classic product management, interacting with a large group of stakeholders at a big company, as well as managing several vendors. I also got quite a bit of experience designing and deploying Google Cloud Platform AI / ML services in a B2B context.
 
-The job was my introduction to the AI space, but the more I learned the more I wanted to get really hands-on. In June of 2023 I left Verizon to dig into AI full-time. [[Leaving Verizon|Here's the skinny on that move]].
+The job was my introduction to the AI space, and regularly meeting with companies that were applying AI was a great opportunity to view the landscape of activity. But the more I learned the more I wanted to get really hands-on. In June of 2023 I left Verizon to dig into AI full-time. [[Leaving Verizon|Here's the skinny on that move]].
 
 # Perfect Sense (Brightspot)
 
@@ -33,11 +33,13 @@ I spent a decade (!) at [AOL](https://www.aol.com/), starting right in the AOL T
 
 Over the course of my product management time at AOL I learned a ton about social media (anyone remember AOL Member Directory and Message Boards?), and helped transition a number of products from proprietary technology to the standards-based stuff that was taking over the web.
 
-I also got experience in various management roles, including technical management of dev and QA teams (early in the days of agile!) and directing product management teams.
+I also got experience in various management roles, including technical management of dev and QA teams ([[Master of Scrums|early in the days of agile!]]) and directing product management teams.
 
 # Jefferson Lab
 
 After I did the research for my doctorate at [Jefferson Lab](https://www.jlab.org/) in Virginia and graduating from William & Mary, I spent a year and a half doing a post-doc at the lab. I thoroughly enjoyed my time there; this was when the accelerator was just coming online, and it was arguably *the* place in the US to do nuclear physics. The lab was populated with extraordinary folks from around the world.
+
+Here's [[Publication List|a list of publications]] with my name on them from my time there.
 
 I departed because the web was taking off, and I really felt an urge to be part of that. Nowadays you'd call it FOMO.
 
@@ -53,4 +55,4 @@ My BS is in electrical engineering, from [UVa](https://www.virginia.edu/). I was
 
 # *Really* old work history
 
-For the first 5 years out of undergrad (EE), I worked in a few roles as an engineer designing radio frequency (RF) systems (RF circuits, radio systems, antennas, and the like). At the end of this stretch I caught the physics bug and decided to go to grad school.
+For the first 5 years out of undergrad, I worked at Texas Instruments and a couple of small shops designing radio frequency (RF) circuits,  antennas, A/D systems, active filters, PLLs, DSP systems, and the like (hardcore electrical engineering stuff!). Nights and weekends were spent designing and building my own audio equipment. At the end of this stretch I caught the physics bug and decided to go to grad school.
