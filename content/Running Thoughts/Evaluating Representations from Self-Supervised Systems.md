@@ -24,7 +24,7 @@ Let's consider the problem more generally, and without the JEPA constraints: you
 
 This thought experiment turns on (at least) two aspects of the interface between the black box and the external world: 1) what is the nature of the information *into* the black box, and 2) what sort of information can flow *out of* the black box?
 
-![[black-box-training 1.png]]
+![[content/images/black-box-training.png]]
 
 The inputs could be any number of things:
 - images or videos
