@@ -9,7 +9,7 @@ Consider this a kind of 'conversational resume', like what you'd get if you quiz
 
 # A Glorious Self-Study Sabbatical
 
-My work since leaving Verizon is largely documented in [[AI Experiments/|AI Experiments]] and [[Experiment Ideas/|Experiment Ideas]] (and this entire site more generally).
+My work since leaving Verizon is largely documented in [[AI Experiments/|AI Experiments]] and [[Experiment Ideas/|Experiment Ideas]] (and this entire site more generally). Here are some details on my [[Sabbatical Activities|activities during this sabbatical]] and my [[AI Research Interests|AI research interests]].
 
 # Verizon
 
@@ -33,7 +33,7 @@ I spent a decade (!) at [AOL](https://www.aol.com/), starting right in the AOL T
 
 Over the course of my product management time at AOL I learned a ton about social media (anyone remember AOL Member Directory and Message Boards?), and helped transition a number of products from proprietary technology to the standards-based stuff that was taking over the web.
 
-I also got experience in various management roles, including technical management of dev and QA teams ([[Master of Scrums|early in the days of agile!]]) and directing product management teams.
+I also got experience in various management roles, including technical management of dev and QA teams ([[Master of Scrums|early in the days of agile!]]) and directing a product management team.
 
 # Jefferson Lab
 
