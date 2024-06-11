@@ -22,7 +22,7 @@ In the spring of 2023 I decided to [[Leaving Verizon|quit my day job]], if only 
 
 ## Additional tidbits
 
-Here are some things I've been [[Sabbatical Activities|thinking about and doing lately]]:
+Here are some things I've been thinking about and doing lately ([[Sabbatical Activities|more info on my sabbatical activities here]]):
 
 ![[Activities.png]]
 
@@ -32,4 +32,4 @@ And here are some of my [[AI Research Interests|research interests]]:
 
 Finally, some ancillary stuff:
 - [[Home & Garden/|Home & Garden things]]
-- [[Unwoven Rainbow/|Some blog posts from the 2007—2010 era]]
+- [[Unwoven Rainbow/|Some old blog posts (from the 2007—2010 era)]]

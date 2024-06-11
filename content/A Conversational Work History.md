@@ -15,7 +15,7 @@ My work since leaving Verizon is largely documented in [[AI Experiments/|AI Expe
 
 I spent 6 years at [Verizon](https://www.verizon.com/) ('17 - '23) doing management for a couple of products that got the Verizon Business Group into the AI / ML space (this group sells products to B2B customers, not part of the consumer group that most people think of when they hear 'Verizon').
 
-The role was classic product management, interacting with a large group of stakeholders (like *really* large, about 25 different groups!) at a big company, as well as managing several vendors. I also got quite a bit of experience designing and deploying Google Cloud Platform AI / ML services in a B2B context.
+The role was classic product management, interacting with a large group of stakeholders (like *really* large, about 25 different teams!) at a big company, as well as managing several vendors. I also got quite a bit of experience designing and deploying Google Cloud Platform AI / ML services in a B2B context.
 
 The job was my introduction to the AI space, and regularly meeting with companies that were applying AI was a great opportunity to view the landscape of activity. But the more I learned the more I wanted to get really hands-on. In June of 2023 I left Verizon to dig into AI full-time. [[Leaving Verizon|Here's the skinny on that move]].
 
