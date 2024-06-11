@@ -14,7 +14,7 @@ One of the notable aspects of a JEPA is that it has no explicitly generative com
 
 So a question naturally arises: how do we determine whether a JEPA that we have trained in a self-supervised way has learned *meaningful representations*?  Namely, when training a vision system how does one judge the quality of the learned representations if we get no image or video predictions out?[^1]
 
-From what I can tell, the JEPA work done to date has been in the domain of images and (more recently) video. In these scenarios, one possible answer to the evaluation question is: *How well do the learned representations perform in downstream tasks?* For example, we might feed the learned representations into a decoder + classifier and (with few samples) attempt to train it to do successful image classification. Or feed videos into a decoder + classifier and attempt to train it to do successful action classification.
+From what I can tell, the JEPA work done to date has been in the domain of images and (more recently) [video](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/). In these scenarios, one possible answer to the evaluation question is: *How well do the learned representations perform in downstream tasks?* For example, we might feed the learned representations into a decoder + classifier and (with few samples) attempt to train it to do successful image classification. Or feed videos into a decoder + classifier and attempt to train it to do successful action classification.
 
 But if we're interested in using video to solve for abilities like understanding *causality* and performing *reasoning*, it's not clear to me that the answer is as simple as that.
 

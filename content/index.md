@@ -9,12 +9,13 @@ Some background: I'm a former electrical engineer (RF circuits, antennas, filter
 
 In 2018 (while doing product management for a machine learning-based product at Verizon) I started getting *very* interested in all of the research around ML and AI. Before long, my nights and weekends were spent poring over the academic papers that were coming out of arxiv.org as if from a fire hose. And for the first time in many years I took up a new programming language (Python) and got myself an [[I Am Here|itty-bitty GTX 1070Ti GPU]].
 
-In the spring of 2023 I decided to [[Leaving Verizon|quit my day job]], if only for a while, so I could focus more fully on this AI thing and redirect my work life accordingly. Now it's nearly a year later, and with a better sense of the overall landscape of AI activity I'm starting to think about reentering the workforce.
+In the spring of 2023 I decided to [[Leaving Verizon|quit my day job]], if only for a while, so I could focus more fully on this AI thing and redirect my work life accordingly. Now it's a year later, and with a better sense of the overall landscape of AI activity I'm starting to think about reentering the workforce.
 
 >[!tip] The Main Things
 >- [[AI Experiments/|A collection of modest AI experiments]]
 >- [[Experiment Ideas/|Experiment ideas]]
 >- [[Running Thoughts/|Some running thoughts]]
+>- [[Publication List|My (physics) publications]]
 >
 >Or
 >- [[tags/post|Everything in one big list (most recent at the top)]]

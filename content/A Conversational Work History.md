@@ -5,7 +5,7 @@ tags:
   - post
 date: 2024-02-03
 ---
-Consider this a kind of 'conversational resume', like what you'd get if you quizzed me in person on my work history. If you want the formal 'toot your own horn' version, [here you go](https://www.dropbox.com/scl/fi/rsmpgyubcsykkp5zhzalb/Chris_Armstrong_resume_public_2024.03.pdf?rlkey=d8nuns4xgwyka7npeefuky1kz&st=26keymhb&dl=0).
+Consider this a kind of 'conversational resume', like what you'd get if you quizzed me in person on my work history. If you want the formal 'toot your own horn' version, [here you go](https://www.dropbox.com/scl/fi/rsmpgyubcsykkp5zhzalb/Chris_Armstrong_resume_public_2024.03.pdf?rlkey=d8nuns4xgwyka7npeefuky1kz&st=zqcb6mor&dl=0).
 
 # A Glorious Self-Study Sabbatical
 
@@ -13,9 +13,9 @@ My work since leaving Verizon is largely documented in [[AI Experiments/|AI Expe
 
 # Verizon
 
-I spent 6 years at [Verizon](https://www.verizon.com/) ('17 - '23) doing management for a couple of products that helped get the Verizon Business Group into the AI / ML space (this group sells products to B2B customers, not part of the consumer group that most people think of when they hear 'Verizon').
+I spent 6 years at [Verizon](https://www.verizon.com/) ('17 - '23) doing management for a couple of products that got the Verizon Business Group into the AI / ML space (this group sells products to B2B customers, not part of the consumer group that most people think of when they hear 'Verizon').
 
-The role was classic product management, interacting with a large group of stakeholders at a big company, as well as managing several vendors. I also got quite a bit of experience designing and deploying Google Cloud Platform AI / ML services in a B2B context.
+The role was classic product management, interacting with a large group of stakeholders (like *really* large, about 25 different groups!) at a big company, as well as managing several vendors. I also got quite a bit of experience designing and deploying Google Cloud Platform AI / ML services in a B2B context.
 
 The job was my introduction to the AI space, and regularly meeting with companies that were applying AI was a great opportunity to view the landscape of activity. But the more I learned the more I wanted to get really hands-on. In June of 2023 I left Verizon to dig into AI full-time. [[Leaving Verizon|Here's the skinny on that move]].
 
@@ -23,7 +23,7 @@ The job was my introduction to the AI space, and regularly meeting with companie
 
 Prior to joining Verizon I was at Perfect Sense (now [Brightspot](https://www.brightspot.com/)) for 7 years. I was with the company as it grew from about 40 people to 130. I did an interesting combination of product management for the in-house content management and digital asset management systems that we sold and consulting work for Perfect Sense customers.
 
-I learned a lot about the content management space, as well as operating in a sort of consulting role.
+I learned a lot about the content management and editorial space, as well as handling client engagements in an end-to-end consulting role (doing proposals, drafting contracts, project budgeting and planning, and fulfillment).
 
 (It was also a welcome break from working in the AOL big-company bureaucracy. Everyone owes it to themselves to work in a variety of places from small to large; it helps immensely to be able to compare different styles of management, different ways of structuring an organization, and the like.)
 
@@ -53,6 +53,6 @@ My PhD is in hadronic physics (experimental), from [W&M](https://www.wm.edu/). M
 
 My BS is in electrical engineering, from [UVa](https://www.virginia.edu/). I was there to see the transition from punch cards to the new-fangled PC. Nuff said.
 
-# *Really* old work history
+# *Really* old history
 
-For the first 5 years out of undergrad, I worked at Texas Instruments and a couple of small shops designing radio frequency (RF) circuits,  antennas, A/D systems, active filters, PLLs, DSP systems, and the like (hardcore electrical engineering stuff!). Nights and weekends were spent designing and building my own audio equipment. At the end of this stretch I caught the physics bug and decided to go to grad school.
+For the first 5 years out of undergrad, I worked at Texas Instruments and a couple of small shops designing radio frequency (RF) circuits,  antennas, A/D systems, active filters, PLLs, DSP systems, and the like (hardcore electrical engineering stuff!). Nights and weekends were spent designing and building my own audio equipment (speakers, active filters, amplifiers). At the end of this stretch I caught the physics bug and decided to go to grad school.
