@@ -36,7 +36,7 @@ These were overwintered from last year, saving the hassle of growing from seed. 
 
 The main challenge with this approach is keeping aphids from consuming the plant over the winter. Once the plants get going again in the spring they can fend for themselves.
 
-Sugar snaps coming in! What a treat.
+Sugar snaps coming in—what a treat!
 
 ![[peas.png]]
 

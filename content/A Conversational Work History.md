@@ -7,7 +7,7 @@ date: 2024-02-03
 ---
 Consider this a kind of 'conversational resume', like what you'd get if you quizzed me in person on my work history. If you want the formal 'toot your own horn' version, [here you go](https://www.dropbox.com/scl/fi/rsmpgyubcsykkp5zhzalb/Chris_Armstrong_resume_public_2024.03.pdf?rlkey=d8nuns4xgwyka7npeefuky1kz&st=zqcb6mor&dl=0).
 
-# A Glorious Self-Study Sabbatical
+# A Glorious AI Self-Study Sabbatical
 
 My work since leaving Verizon is largely documented in [[AI Experiments/|AI Experiments]] and [[Experiment Ideas/|Experiment Ideas]] (and this entire site more generally). Here are some details on my [[Sabbatical Activities|activities during this sabbatical]] and my [[AI Research Interests|AI research interests]].
 
@@ -55,4 +55,4 @@ My BS is in electrical engineering, from [UVa](https://www.virginia.edu/). I was
 
 # *Really* old history
 
-For the first 5 years out of undergrad, I worked at Texas Instruments and a couple of small shops designing radio frequency (RF) circuits,  antennas, A/D systems, active filters, PLLs, DSP systems, and the like (hardcore electrical engineering stuff!). Nights and weekends were spent designing and building my own audio equipment (speakers, active filters, amplifiers). At the end of this stretch I caught the physics bug and decided to go to grad school.
+For the first 5 years out of undergrad, I worked at Texas Instruments and a couple of small shops designing radio frequency (RF) circuits,  antennas, A/D systems, active filters, PLLs, DSP systems, and the like (hardcore electrical engineering stuff!). Nights and weekends were spent designing and building my own audio equipment (speakers, active filters, amplifiers) and writing assembly code for processors. At the end of this stretch I caught the physics bug and decided to go to grad school.

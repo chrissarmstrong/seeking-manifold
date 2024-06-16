@@ -12,6 +12,7 @@ In 2018 (while doing product management for a machine learning-based product at 
 In the spring of 2023 I decided to [[Leaving Verizon|quit my day job]], if only for a while, so I could focus more fully on this AI thing and redirect my work life accordingly. Now it's a year later, and with a better sense of the overall landscape of AI activity I'm starting to think about reentering the workforce.
 
 >[!tip] The Main Things
+>- [[Sabbatical Activities|My sabbatical activities]]
 >- [[AI Experiments/|A collection of modest AI experiments]]
 >- [[Experiment Ideas/|Experiment ideas]]
 >- [[Running Thoughts/|Some running thoughts]]
@@ -22,7 +23,7 @@ In the spring of 2023 I decided to [[Leaving Verizon|quit my day job]], if only 
 
 ## Additional tidbits
 
-Here are some things I've been thinking about and doing lately ([[Sabbatical Activities|more info on my sabbatical activities here]]):
+Here's an overview of things I've been thinking about and doing lately ([[Sabbatical Activities|more detail here]]):
 
 ![[Activities.png]]
 

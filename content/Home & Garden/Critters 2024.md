@@ -68,7 +68,7 @@ Young Eastern Wood-Pewee, I believe:
 
 ## 2024-06-02
 
-Local skink:
+Backyard skink:
 
 ![[skink.png]]
 
@@ -78,3 +78,8 @@ Local lady working nonstop:
 
 ![[bee.png]]
 
+## 2024-06-13
+
+Cute little visitor:
+
+![[fawn.png]]
