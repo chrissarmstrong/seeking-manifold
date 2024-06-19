@@ -16,6 +16,8 @@ Phys. Rev. D **60**, 052004 (1999) - Published 5 August 1999
 
 DOI: https://doi.org/10.1103/PhysRevD.60.052004
 
+Based on my full dissertation (1998) with the same title, available [as a PDF](https://www.dropbox.com/scl/fi/9rmzv5ib6iunr9cu7v0p9/Chris_Armstrong_thesis_public.pdf?rlkey=jafuelofn54fougnngy33twbb&dl=0).
+
 ---
 ## Moments of the proton $F_2$ structure function at low $Q^2$
 C. S. Armstrong, R. Ent, C. E. Keppel, S. Liuti, G. Niculescu, and I. Niculescu

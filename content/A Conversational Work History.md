@@ -51,8 +51,8 @@ My PhD is in hadronic physics (experimental), from [W&M](https://www.wm.edu/). M
 
 ## Electrical engineering @ University of VA
 
-My BS is in electrical engineering, from [UVa](https://www.virginia.edu/). I was there to see the transition from punch cards to the new-fangled PC. Nuff said.
+My BS is in electrical engineering, from [UVa](https://www.virginia.edu/). I was there to see the transition from punch cards to the new-fangled PC. 'Nuff said.
 
 # *Really* old history
 
-For the first 5 years out of undergrad, I worked at Texas Instruments and a couple of small shops designing radio frequency (RF) circuits,  antennas, A/D systems, active filters, PLLs, DSP systems, and the like (hardcore electrical engineering stuff!). Nights and weekends were spent designing and building my own audio equipment (speakers, active filters, amplifiers) and writing assembly code for processors. At the end of this stretch I caught the physics bug and decided to go to grad school.
+For the first 5 years out of undergrad, I worked at Texas Instruments and a couple of small shops designing radio frequency (RF) circuits,  antennas, A/D systems, active filters, PLLs, DSP systems, and the like (hardcore electrical engineering stuff!). Nights and weekends were spent [[Decommissioning the Beast|designing and building my own audio equipment]] (speakers, active filters, amplifiers) and writing assembly code for processors. At the end of this stretch I caught the physics bug (after reading the classic *Physics for Poets*), spent about a year of spare time trying to backfill my minimal physics education, and managed to get into grad school.

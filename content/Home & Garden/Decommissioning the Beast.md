@@ -56,6 +56,6 @@ Here's the inside of the bottom case, which contains the power supplies for the 
 
 That's it!
 
-As noted above, the thing is not useful except when married to matching speakers, and my original ones have started to degrade (cones disintegrating). And at this point I don't know that I would even want to power the thing up.
+As noted above, the thing is not useful except when married to matching speakers, and my original ones have started to degrade (cones disintegrating). And at this point I don't know that I would even want to power it up.
 
 Next: figure out what, if anything, can be salvaged here, aside from a bunch of iron and copper.
