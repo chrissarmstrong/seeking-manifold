@@ -83,3 +83,10 @@ Local lady working nonstop:
 Cute little visitor:
 
 ![[fawn.png]]
+
+## 2024-06-21
+
+*Two* fawns! Based on the markings, the kiddo on the right is the guy above.
+
+![[two-fawns.png]]
+

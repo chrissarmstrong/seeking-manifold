@@ -5,11 +5,11 @@ tags:
   - post
 date: 2024-02-03
 ---
-Consider this a kind of 'conversational resume', like what you'd get if you quizzed me in person on my work history. If you want the formal 'toot your own horn' version, [here you go](https://www.dropbox.com/scl/fi/rsmpgyubcsykkp5zhzalb/Chris_Armstrong_resume_public_2024.03.pdf?rlkey=d8nuns4xgwyka7npeefuky1kz&st=zqcb6mor&dl=0).
+Consider this a kind of 'conversational resume', like what you'd get if you quizzed me in person on my work history. We're going to work backwards in time here. (If you want the formal 'toot your own horn' resume, [here you go](https://www.dropbox.com/scl/fi/rsmpgyubcsykkp5zhzalb/Chris_Armstrong_resume_public_2024.03.pdf?rlkey=d8nuns4xgwyka7npeefuky1kz&st=zqcb6mor&dl=0).)
 
 # A Glorious AI Self-Study Sabbatical
 
-My work since leaving Verizon is largely documented in [[AI Experiments/|AI Experiments]] and [[Experiment Ideas/|Experiment Ideas]] (and this entire site more generally). Here are some details on my [[Sabbatical Activities|activities during this sabbatical]] and my [[AI Research Interests|AI research interests]].
+My work since leaving Verizon in June 2023 is largely documented in [[AI Experiments/|AI Experiments]] and [[Experiment Ideas/|Experiment Ideas]] (and this entire site more generally). Here are some details on my [[Sabbatical Activities|activities during this sabbatical]] and my [[AI Research Interests|AI research interests]].
 
 # Verizon
 
