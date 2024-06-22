@@ -6,7 +6,7 @@ tags:
 date: 2024-03-15
 promo-linkedin:
 ---
-I'm so tired of hearing people like ███ ███████[^1] go on (in interviews or talks) spouting multiple poorly-supported points in rapid succession. It's like he wields a bump-stock for BS.
+I'm so tired of hearing people like ███ ███████[^1] go on (in interviews or talks) spouting multiple poorly-supported points in rapid succession. It's like he wields a bump stock for BS.
 
 I want a real-time LLM that has access to trusted sources and listens to content (interviews, talks, broadcasts, etc.) and in real time highlights places where statements can be challenged. It features a big indicator like the Pants-on-Fire meter, together with counterpoints / commentary on statements that are counter to fact (or just highlights when something is heavily opinion-based).
 

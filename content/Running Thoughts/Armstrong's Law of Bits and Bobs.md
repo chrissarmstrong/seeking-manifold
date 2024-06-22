@@ -17,3 +17,4 @@ Examples:
 - The package was delivered months ago, but the bubble wrap or box it came in is tucked away in the garage for future use
 - I used to have a stack of CD / DVD cases that would find use long after their original disc was gone (though now those cases are finally going away too)
 - We have a shelf of decorative gift boxes and bags and ribbons that live on to see another day, when the gifts they originally graced are gone
+- Back when I was a paper-based person, I kept notes in three-ring binders; I'd get the binders from various presentations (usually work-related), and eventually the papers would get recycled and the binders used again
