@@ -25,7 +25,7 @@ Some noteworthy aspects:
 
 The Beast, and the speakers it was paired with, served me well for a number of years. But at one point almost two decades ago the (commercial) pre-amp that operated upstream of the Beast died. In what I told myself was a temporary move (until I could find a suitable replacement for the pre-amp), I pulled the Beast and its speakers out of the living room and relegated them to storage in the garage. I hooked up the rest of my components to a more modest (conventional) amp / speaker combo.
 
-Fast forward a while. As life went on—kids arriving, growing up, and then even leaving (!), with the Beast and its speakers gathering dust in the garage—my need to have a ridiculously over-powered stereo system faded (I grew up??).
+Fast forward a while. As life went on—kids arriving, growing up, and then even leaving (!), with the Beast and its speakers gathering dust in the garage—my need to have a ridiculously over-powered stereo system faded (I grew up too??).
 
 Now my wife and I are prepping to finally—for real this time!—clean out all the crap that has accumulated in our garage since moving into this house many years ago. I've decided it's time to let go of the Beast and its speakers. I'm allowing myself a kind of parting ceremony with this old labor of love by documenting it here.
 
