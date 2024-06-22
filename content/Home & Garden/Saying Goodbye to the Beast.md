@@ -47,7 +47,7 @@ This is the underside of one of the amps on the right side of the pic above. It 
 ![[circuit-board.png]]
 
 
-Here's the inside of the bottom case, which contains the power supplies for the amps. Lots of transformer iron together with scary-big capacitors (I was always a bit nervous working around those things). I had to brace the case with extra mechanical support to handle the weight (~35 lbs).
+Here's the inside of the bottom case, which contains the power supplies for the amps. Lots of transformer steel together with scary-big capacitors (I was always a bit nervous working around those things). I had to brace the case with extra mechanical support to handle the weight (~35 lbs).
 
 ![[power-supplies.png]]
 
@@ -78,6 +78,6 @@ That's it!
 
 As noted above, the Beast is not useful except when married to its matching speakers, and those speaker cones have started to disintegrate (and I never got around to finishing the enclosures anyway). At this point I would hesitate to even power it up for fear of something blowing.
 
-Next: figure out what, if anything, can be salvaged here, aside from a bunch of iron and copper.
+Next: figure out what, if anything, can be salvaged here, aside from a bunch of steel and copper.
 
 Adios, old friend.
