@@ -25,17 +25,17 @@ Some noteworthy aspects:
 
 The Beast, and the speakers it was paired with, served me well for a number of years. But at one point almost two decades ago the (commercial) pre-amp that operated upstream of the Beast died. In what I told myself was a temporary move (until I could find a suitable replacement for the pre-amp), I pulled the Beast and its speakers out of the living room and relegated them to storage in the garage. I hooked up the rest of my components to a more modest (conventional) amp / speaker combo.
 
-Fast forward a while. As life went on—kids arriving and then leaving, with the Beast and its speakers gathering dust in the garage—my need to have a ridiculously over-powered stereo system faded (I grew up??).
+Fast forward a while. As life went on—kids arriving, growing up, and then even leaving (!), with the Beast and its speakers gathering dust in the garage—my need to have a ridiculously over-powered stereo system faded (I grew up??).
 
 Now my wife and I are prepping to finally—for real this time!—clean out all the crap that has accumulated in our garage since moving into this house many years ago. I've decided it's time to let go of the Beast and its speakers. I'm allowing myself a kind of parting ceremony with this old labor of love by documenting it here.
 
-Here's the back of the pair of cases. Power supplies in the bottom case, active filtering and amplifiers in the top. Lots of DC running from bottom to top (for each set of amps).
+Here's the back of the pair of cases. Power supplies in the bottom case, active filtering and amplifiers in the top. Loads of DC running from bottom to top (for each set of amps).
 
 
 ![[back-panel.png]]
 
 
-This is the inside of the top case, which handles the audio. There are a pair of amps for each driver in the speakers (one for left speaker, one for right). This is where we differ from a conventional setup, which sends one signal to each speaker, and then uses passive filtering to split the signal between drivers.
+This is the inside of the top case, which handles the audio. In addition to all of the dust, there are a pair of amps for each driver in the speakers (one for left speaker, one for right). This is where we differ from a conventional setup, which sends one signal to each speaker, and then uses passive filtering to split the signal between drivers.
 
 The active filtering is on the left (on cheesy breadboards that I never got around to cleaning up). The speaker amps are middle and right side. The fans on the right do their best to keep the thing at a reasonable temp.
 
@@ -58,7 +58,7 @@ Schematic for some of the electronics:
 
 ![[schematic.png]]
 
-PCB design for the amp:
+PCB design for the main amps:
 
 ![[amp-pcb.png]]
 
@@ -66,11 +66,11 @@ Here's the speaker enclosure design:
 
 ![[speaker-diagram.png]]
 
-Endless tweaking of filter and speaker response curves:
+I did endless tweaking of filter and speaker response curves:
 
 ![[response-curves.png]]
 
-Playing around with a setup to use the FFT of impulse responses to measure speaker driver + enclosure + room characteristics—a cool end-to-end learning experience involving hardware and my own software. I don't even remember what language the anaysis code was written in... Basic? Pascal?
+I created a setup to use the FFT of impulse responses to measure speaker driver + enclosure + room characteristics—a cool end-to-end learning experience involving hardware and my own software. I don't even remember what language the anaysis code was written in... Basic? Pascal?
 
 ![[impulse-fft.png]]
 
