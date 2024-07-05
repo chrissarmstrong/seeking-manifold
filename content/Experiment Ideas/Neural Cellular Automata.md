@@ -8,9 +8,9 @@ linkedin-promo: false
 ---
 Recently I came across this great post published a few years ago in Distill: [Growing Neural Cellular Automata](https://distill.pub/2020/growing-ca/).
 
-A cellular automata is a cell on a grid that has a set of rules that defines what happens to it based on what its neighboring cells do. *Neural* cellular automata (or NCA) extend that idea by giving each cell an identical neural network and then training that shared network with some objective function.
+A cellular automata is a system composed of cells on a grid in which each cell has an identical set of rules that define its behavior based on the states of neighboring cells. *Neural* cellular automata (or NCA) extend that idea by giving each cell an identical *neural network* and then training that shared network with some objective function.
 
-You can get the flavor of what they're able to do just by looking through their animations showing the images they produce.
+You can get the flavor of what NCA are able to do just by looking through the animations in that post.
 
 I find this fascinating on several fronts:
 - The idea that you can have cells that contains a single, shared program to create an entire 'organism' is pretty amazing.
@@ -87,7 +87,7 @@ Not only that, but the weights encapsulate a time-based aspect of behavior. Read
 
 You can imagine a scenario where there is a wake / sleep cycle in which the weights of the network are updated during sleep to account for the day's activities and observations. Then these weights form the basis of representations (in both space and time) that are subsequently used in the brain's world model.
 
-Finally, the NCAs are inherently generative. As I discussed in [[Evaluating Representations from Self-Supervised Systems|this post]], I believe that generative capabilities are likely an intrinsic part of our brain.
+Finally, the NCA are inherently generative. As I discussed in [[Evaluating Representations from Self-Supervised Systems|this post]], I believe that generative capabilities are likely an intrinsic part of our brain.
 
 That's it for now; if you made it this far I hope you got something out of this! Hopefully more to come.
 
@@ -97,4 +97,4 @@ Repo: (#to do#)
 
 [^2]: The minicolumns in the brain don't just have local interactions, hence my thinking also about central signalling and hierarchy.
 
-[^3]: The NCAs are also somehow reminiscent of Hinton's capsule idea, but that analogy isn't yet well formed for me.
+[^3]: The NCA are also somehow reminiscent of Hinton's capsule idea, but that analogy isn't yet well formed for me.
