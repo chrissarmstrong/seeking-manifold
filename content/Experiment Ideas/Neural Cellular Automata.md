@@ -6,9 +6,9 @@ tags:
 date: 2024-07-05
 linkedin-promo: false
 ---
-Recently I came across this great post published a few years ago in Distill: [Growing Neural Cellular Automata](https://distill.pub/2020/growing-ca/), or NCA.
+Recently I came across this great post published a few years ago in Distill: [Growing Neural Cellular Automata](https://distill.pub/2020/growing-ca/).
 
-A cellular automata is a cell on a grid that has a set of rules that defines what happens to it based on what its neighboring cells do. *Neural* cellular automata extend that idea by giving each cell an identical neural network and then training that shared network with some objective function.
+A cellular automata is a cell on a grid that has a set of rules that defines what happens to it based on what its neighboring cells do. *Neural* cellular automata (or NCA) extend that idea by giving each cell an identical neural network and then training that shared network with some objective function.
 
 You can get the flavor of what they're able to do just by looking through their animations showing the images they produce.
 
@@ -83,11 +83,13 @@ All of this has some ideas bubbling around in my head:
 
 That last idea is one I'm most interested in, and have been thinking about a lot for a few weeks. Here's what has me excited: The fact that the cells are uniform and interact locally is highly reminiscent of [the minicolumn structure found throughout the neocortex](https://en.wikipedia.org/wiki/Cortical_minicolumn).[^2][^3]
 
-Not only that, but the weights encapsulate a time-based aspect of behavior. Readers of this blog may know that I'm really interested in [[Time as a First-Class Citizen]].
+Not only that, but the weights encapsulate a time-based aspect of behavior. Readers of this blog may know that I'm really interested in [[Time as a First-Class Citizen|treating time as a first-class citizen]].
 
 You can imagine a scenario where there is a wake / sleep cycle in which the weights of the network are updated during sleep to account for the day's activities and observations. Then these weights form the basis of representations (in both space and time) that are subsequently used in the brain's world model.
 
 Finally, the NCAs are inherently generative. As I discussed in [[Evaluating Representations from Self-Supervised Systems|this post]], I believe that generative capabilities are likely an intrinsic part of our brain.
+
+That's it for now; if you made it this far I hope you got something out of this! Hopefully more to come.
 
 Repo: (#to do#)
 
