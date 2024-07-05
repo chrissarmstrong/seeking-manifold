@@ -8,7 +8,7 @@ promo-linkedin:
 ---
 ## The Idea
 
-**This is a work in progress.**
+**Note: This is a work in progress, with some partial results.**
 
 There have been indications recently that we can expand the capacity of LLMs by duplicating blocks (and then following up with some sort of fine-tuning). Two examples:
 1. [Goliath-120B](https://www.reddit.com/r/LocalLLaMA/comments/17rsmox/goliath120b_quants_and_future_plans/), in which layers from two separate fine-tunes of the same 70B model were interwoven to achieve a much larger model that (at least anecdotally) has very good performance.

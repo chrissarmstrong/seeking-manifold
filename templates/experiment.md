@@ -6,7 +6,6 @@ tags:
 date: 
 linkedin-promo: false
 ---
-{{date}}
 ## The Idea
 
 
