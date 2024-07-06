@@ -48,7 +48,7 @@ Here's the loss (for the batch of images) at the end of each training step:
 
 ![[nca-training-loss.png]]
 
-I have not yet done any work to stabilize the endpoint (create a 'stable attractor) or to support regeneration (Experiments 2 and 3 in the post).
+I have not yet done any work to stabilize the endpoint (create a 'stable attractor') or to support regeneration (Experiments 2 and 3 in the post).
 
 Now that we have a trained network, we can use it for inference. We get a gecko going with one pixel and watch it evolve for an arbitrary number of steps. Here we're letting it evolve for 400 steps (so well beyond the max 96 steps it saw during training):
 
@@ -59,7 +59,7 @@ You can see that at times it displays a bit of instability, but given that I did
 I have some experiments in mind that will require a larger data set to work with, so I instrumented my setup to also be able to use MNIST images for NCA generation.
 
 The only things worth mentioning on the MNIST side are:
-1. I did the most hacky thing possible, which is to simply create RGB versions of the grayscale images for training (I could have gained some efficiency my modifying the network to handle grayscale directly, training only one layer instead of three).
+1. I did the most hacky thing possible, which is to simply create RGB versions of the grayscale images for training (I could have gained some efficiency by modifying the network to handle grayscale directly, training only one layer instead of three).
 2. There's no true $\alpha$ channel here.
 
 Here's an MNIST example (target on the left, output of the NCA after 800 training steps):
@@ -72,7 +72,7 @@ Here's 400 frames of inference for that MNIST NCA (showing noticeably more degra
 
 ## What now?
 
-I know that the entire point of neural cellular automata is to be a little model of life, but *isn't this just a really cool little model of life?* A collection of one type of cell, replicated and interacting only with its next-door neighbors, able to organize themselves into something at a macro scale—wow!
+I know that the entire point of neural cellular automata is to be a little model of life, but *isn't this just a really cool little model of life?* A collection of cells, all running the same program, replicated and interacting only with their next-door neighbors, able to organize themselves into something at a macro scale—wow!
 
 All of this has some ideas bubbling around in my head:
 - Could you get a single cell type to generate conditionally? In other words, given some signal from a centralized source to each cell that indicates (for example) 'gecko' or 'snail' or 'bird', could you then control the end result of the generation for those cells? That seems straightforward.
