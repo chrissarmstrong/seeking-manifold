@@ -40,3 +40,11 @@ Sugar snaps coming in—what a treat!
 
 ![[peas.png]]
 
+## 2024-07-06
+
+Our garden is pinned in between some tall woods and our house, so doesn't get good sun at all. Between that and mediocre soil and haphazard watering, we have real trouble growing full-sized tomatoes (our favorite variety, Juliet, is a plum that is super productive in our conditions).
+
+Hope springs eternal, though, and every year I plant a handful of full-sized tomato varieties. And every now and then we actually get something reasonable:
+
+![[a-real-tomato.png]]
+
