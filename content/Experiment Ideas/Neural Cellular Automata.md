@@ -32,7 +32,7 @@ Together with a target image (in this case, my crudely-drawn spotted gecko):
 
 ![[gecko-target.png]]
 
-And then we train the neural network that defines the behavior of all the cells. The are two loops here: an outer loop (over 'training steps') and an inner loop (over 'CA training steps'). The outer loop is typically 800 - 1200 training steps. Each of these training steps consists of a random number of CA training steps (the inner loop) in the range \[64, 96\].[^1]
+And then we train the neural network that defines the behavior of all the cells.[^1] The are two loops here: an outer loop (over 'training steps') and an inner loop (over 'CA training steps'). The outer loop is typically 800 - 1200 training steps. Each of these training steps consists of a random number of CA training steps (the inner loop) in the range \[64, 96\].[^2]
 
 Within a training step we use backprop through time (BPTT) for that entire set of CA steps. Random masking is applied to the update grid at each CA step to simulate different cells updating at different times.
 
@@ -81,7 +81,7 @@ All of this has some ideas bubbling around in my head:
 - Could you train cells to pursue a target that varies with time? A walking gecko, for example? I really like this idea, but it's not yet clear to me how you do this.
 - *Could you use the weights of the learned network as representations of the target in another network?*
 
-That last idea is one I'm most interested in, and have been thinking about a lot for a few weeks. Here's what has me excited: The fact that the cells are uniform and interact locally is highly reminiscent of [the minicolumn structure found throughout the neocortex](https://en.wikipedia.org/wiki/Cortical_minicolumn).[^2][^3]
+That last idea is one I'm most interested in, and have been thinking about a lot for a few weeks. Here's what has me excited: The fact that the cells are uniform and interact locally is highly reminiscent of [the minicolumn structure found throughout the neocortex](https://en.wikipedia.org/wiki/Cortical_minicolumn).[^3][^4]
 
 Not only that, but the weights encapsulate a time-based aspect of behavior. Readers of this blog may know that I'm really interested in [[Time as a First-Class Citizen|treating time as a first-class citizen]].
 
@@ -93,8 +93,10 @@ That's it for now; if you made it this far I hope you got something out of this!
 
 Repo: (#to do#)
 
-[^1]: The inner loop corresponds to the 'Single update step' figure in the Distill post, the outer loop to the 'Training regime' figure.
+[^1]: Some more detail on exactly what we're training: Each cell has this same set of instructions (a small neural net) that are essentially "given the RGBAlpha and neural network activation states of your 8 neighbors, on the next timestep your own state will change as follows...". At each training step you set the system in motion with a starting pixel. These cells, all acting independently based on this common set of instructions, organize themselves to form the image that the instructions were optimized for. The training is simply optimizing that neural net so that the system will evolve towards whatever target image you've provided. The loss function that you are minimizing is the mean squared error between the target image and the current output for all cells.
 
-[^2]: The minicolumns in the brain don't just have local interactions, hence my thinking also about central signalling and hierarchy.
+[^2]: The inner loop corresponds to the 'Single update step' figure in the Distill post, the outer loop to the 'Training regime' figure.
 
-[^3]: The NCA are also somehow reminiscent of Hinton's capsule idea, but that analogy isn't yet well formed for me.
+[^3]: The minicolumns in the brain don't just have local interactions, hence my thinking also about central signalling and hierarchy.
+
+[^4]: The NCA are also somehow reminiscent of Hinton's capsule idea, but that analogy isn't yet well formed for me.
