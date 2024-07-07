@@ -93,7 +93,7 @@ That's it for now; if you made it this far I hope you got something out of this!
 
 ![[animation-seeking-manifold-50.mp4]]
 
-Repo: (#to do#)
+Repo: https://github.com/chrissarmstrong/neural_CA
 
 [^1]: Some more detail on exactly what we're training: Each cell has this same set of instructions (a small neural net) that are essentially "given the RGBAlpha and neural network activation states of your 8 neighbors, on the next timestep your own state will change as follows...". At each training step you set the system in motion with a starting pixel. These cells, all acting independently based on this common set of instructions, organize themselves to form the image that the instructions were optimized for. The training is simply optimizing that neural net so that the system will evolve towards whatever target image you've provided. The loss function that you are minimizing is the mean squared error between the target image and the current output for all cells.
 
