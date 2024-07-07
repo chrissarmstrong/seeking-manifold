@@ -11,7 +11,7 @@ These are some notes on things that kept me busy during my 2023—2024 sabbatica
 
 I've spent part of my time conducting some modest experiments. The ones I've had a chance to write up [[AI Experiments/|are cataloged here]] (with [[Experiment Ideas/|ideas for more]] as time permits).
 
-![[residual-stream-data-lane.png|400]]
+![[residual-stream-data-lane.png|600]]
 
 (figure from my [[Residual Stream Data Lane|residual stream data lane experiment]])
 
@@ -46,7 +46,9 @@ Being able to search for "kids kayaking" or "camping by the river" and instantly
 
 ### VQ-GAN Text to Image
 
-[[CLIP Guided Diffusion|Read about it here.]]
+My initial exposure to (early) text-to-image systems. [[CLIP Guided Diffusion|Read about it here.]]
+
+![[a-watercolor-painting-of-an-owl2.png|A Watercolor Painting of an Owl|300]]
 
 ## Working with tools
 
@@ -55,18 +57,21 @@ Some tools that I've been spending time with:
 - **Hugging Face.** While you of course need to know how to do things like write your own training loop, these days you really have to assume proficiency with Hugging Face. Even if you aren't using it in a prod setting, it is almost guaranteed that you'll encounter it all over the place in the course of trying out new models, etc.
 - **Ollama, Text Generation UI, and SillyTavern.** I've spent some time [[A Gaggle of Migos|playing with pretrained LLMs]] (at least what I can fit on my machine in heavily quantized form). These tools are all nice for interacting with LLMs for daily chat and—in the case of the first two—standing up APIs for use with other apps. When just playing around with LLMs I'm inclined to use a local 7B model rather than run up my bill with OpenAI or Anthropic or Mistral or whoever.
 
+![[immunity-flux.png|400]]
+
 ## Anki!
 [Anki](https://apps.ankiweb.net/) (for those not familiar with it) is like a superpower. Gone are the days when I start to read a research paper and think to myself "Haven't I looked at this paper before??" Or struggled to remember (again) what the loss function for DPO looks like.
 
 I spend about 1—1.5 hours per day reviewing cards and adding new ones; it is a big investment but one I think is well worthwhile. I got serious about Anki in 2019 and my only regret is that I didn't start doing something like this 30 years sooner. Some stats from the last year of my main (primarily AI / ML-focused) deck:
 
 
-![[Pasted image 20240406102817.png]]
+![[Pasted image 20240406102817.png|500]]
 
 People have a tendency to dismiss this type of thing as rote memorization. "Why would you bother memorizing things like that when you can just search for the answer?" That point of view completely misunderstands how humans learn and apply knowledge. Being able to remember things forms the lower layers of [Bloom's taxonomy](https://en.wikipedia.org/wiki/Bloom's_taxonomy), and is the foundation for attaining mastery of a topic. Things pop into place and ideas come together almost magically when they are readily available for your brain to work with.
 
-![[blooms-taxonomy.png]]
-(Image lifted from [helpfulprofessor.com](https://helpfulprofessor.com/levels-of-understanding/))
+![[blooms-taxonomy.png|500]]
+
+(image lifted from [helpfulprofessor.com](https://helpfulprofessor.com/levels-of-understanding/))
 
 ## Obsidian
 

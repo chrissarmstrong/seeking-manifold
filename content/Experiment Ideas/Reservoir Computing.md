@@ -20,6 +20,8 @@ I think of both of these concepts as providing a 'frozen attention' substrate su
 
 I refer to these approaches, in a likely abuse of terminology, as forms of reservoir computing.[^2] I'm excited about them partly because I find it fascinating that they work at all, but mostly because they may offer a route to do more with less. Do they allow models to punch above their weight class in terms of 1) lower compute or lower memory for a given level of performance, or 2) faster training? And could they be leveraged for either different use cases or different modalities at the same time? I think the idea is under-explored.
 
+![[reservoir-computing-idea.png]]
+
 
 [^1]:  Another paper in a similar vein is [MLP-Mixer](https://arxiv.org/abs/2105.01601) (Tolstikhin et al., 2021). Here the proposal was to replace the self-attention layers with MLPs that—instead of operating within each token's stream—were 'rotated' and operated across tokens. In this case, however, the MLP layers remained trainable.
 
