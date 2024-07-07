@@ -9,7 +9,11 @@ Some quick notes on things that have kept me busy during my sabbatical year (as 
 
 ## Modest experiments
 
-I've spent part of my time conducting some modest experiments. The ones I've had a chance to write up [[AI Experiments/|are cataloged here]] (with [[Experiment Ideas/|more to come]] as time permits).
+I've spent part of my time conducting some modest experiments. The ones I've had a chance to write up [[AI Experiments/|are cataloged here]] (with [[Experiment Ideas/|ideas for more]] as time permits).
+
+![[residual-stream-data-lane.png|400]]
+
+(image from the [[Residual Stream Data Lane|residual stream data lane experiment]])
 
 ## Studies
 
@@ -17,9 +21,10 @@ Another big chunk of time has been spent studying some of the AI-related topics 
 - **Mechanistic interpretability.** I've read through a number of the amazing papers from Olah's team at Anthropic, and I'm in the process of working through the very nice ARENA tutorials. It looks like David Bau's group has also done some very good work, but I haven't dug into that much yet.
 - **Spiking Neural Networks (SNNs).** I spent a couple of months doing a deep dive on this, and would love to spend more. There is a very interesting tradeoff between SNN approaches (that are fundamentally analogue) and the digital approach that is all the rage at the moment. SNNs offer the promise of dramatically lower power consumption, but—as Hinton has pointed out—the ability to trivially duplicate digital systems is really useful. Unfortunately, the lack of availability of SNN hardware for small-scale research is a real obstacle, and has prevented me from going too far with this.
 - **Neuroscience.** I spent a while doing a deep dive into neuroscience generally. I was all set to take the [Neuromatch Academy](https://neuromatch.io/neuroscience/) summer school course at the start of my sabbatical, and really looking forward to it, but the timing didn't quite work out with my Verizon departure. Instead I worked my way through Matthew Thiboust's excellent [Insights from the Brain](https://www.insightsfromthebrain.com/) and a number of the resources referenced there.
-- **Large Language Models (LLMs)**. Much of [[AI Experiments/|my recent experimentation]] has been with (large and not so large) language models. While I'm skeptical that LLMs (by themselves, and as they exist today) are the path to advanced machine intelligence, I think they have a large role to play, and they are clearly giving us some great new tools to work with (for both research and business applications). I'm very interested in the trends towards democratization of these tools, from open weights and datasets to techniques that enable low-cost fine-tuning (like quantization, LoRA, and QLoRA).
+- **Large Language Models (LLMs)**. Much of [[AI Experiments/|my recent experimentation]] has been with (large and not so large) language models. While I'm skeptical that LLMs—by themselves, as they exist today—are the path to advanced machine intelligence, I think they have a large role to play, and they are clearly giving us some great new tools to work with (for both research and business applications). I'm very interested in the trends towards democratization of these tools, from open weights and datasets to techniques that enable low-cost fine-tuning (like quantization, LoRA, and QLoRA).
 - **Diffusion models.** The recent advances in diffusion models are fascinating, and I've been paying close attention to this generative AI (GenAI) sub-field. I'm interested not only in applications to images but to other domains as well (e.g., [Diffusion-LM](https://arxiv.org/abs/2205.14217)). Intuitively I feel that a lot of our thought processes are more akin to diffusion than to autoregression, and I'm thinking about how that might manifest in approaches to language modeling, etc.
 - **State Space Models.** Transformers quickly became ubiquitous in NLP after their introduction in 2017, and since then have had a huge impact in other domains as well (images, some areas of RL, etc.). But I believe that over the next few years we'll see our set of tools expand to other architectures. SSMs and their variants (Mamba, RetNet, RWKV) are a promising contender here, and I'm trying to get a grounding in these transformer alternatives.
+- **Neural Cellular Automata.** I think these are really interesting and might have some overlap with AI and cognition. Read [[Neural Cellular Automata|more about that here]].
 - **MicroGrad and nanoGPT.** Andrej Karpathy is a great teacher, and he has been kind enough to gift us with a bunch of helpful content. If you want to understand the basics of neural nets it is well worth your time to work through his [Youtube videos](https://www.youtube.com/@AndrejKarpathy/videos) and [associated repos](https://github.com/karpathy).
 - **Reinforcement Learning.** Earlier in my studies (~2018) I spent a fair amount of time digging into RL, going through Sutton and Barto, learning about some of the recent algorithmic developments (e.g., PPO) and playing with OpenAI Gym.
 
@@ -29,9 +34,15 @@ Another big chunk of time has been spent studying some of the AI-related topics 
 
 I'm the curator of our family photographs—at least the ones taken before phones with online storage arrived—and over the years I've collected something like 50k digital pics (including digitized versions of old analog family photos). (Digikam ftw as a management tool.)
 
-A while back when CLIP was all the rage I hooked it up to my repository of images to enable search. It was a fun little project, allowing me to work on my Python scripting and the SBERT library.
+Early in my AI exploration (pre-sabbatical) when CLIP was all the rage I hooked it up to my repository of images to enable search. It was a fun little project, allowing me to work on my Python scripting and the SBERT library.
 
 Being able to search for "kids kayaking" or "camping by the river" and instantly pull up your pics from 15 years ago is pretty cool (although now we get that for 'free' with online services).
+
+![[search-sunrise.png|600]]
+
+![[search-kayaking.png|500]]
+
+![[search-fox.png|500]]
 
 ### VQ-GAN Text to Image
 
