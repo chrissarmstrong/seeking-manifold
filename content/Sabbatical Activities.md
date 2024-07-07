@@ -5,7 +5,7 @@ tags:
   - post
 date: 2024-04-08
 ---
-Some quick notes on things that have kept me busy during my sabbatical year (as well as a few things I worked on earlier).
+These are some notes on things that kept me busy during my 2023—2024 sabbatical year (as well as a few things I worked on earlier). (Info on my previous work history is [[A Conversational Work History|here]].)
 
 ## Modest experiments
 
@@ -13,7 +13,7 @@ I've spent part of my time conducting some modest experiments. The ones I've had
 
 ![[residual-stream-data-lane.png|400]]
 
-(image from the [[Residual Stream Data Lane|residual stream data lane experiment]])
+(figure from my [[Residual Stream Data Lane|residual stream data lane experiment]])
 
 ## Studies
 
