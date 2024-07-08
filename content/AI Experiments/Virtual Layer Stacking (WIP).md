@@ -20,7 +20,7 @@ Note that this wouldn't do *much* to reduce VRAM required for training, since th
 
 Here's a diagram of what I did (although it shows a toy two-layer model just to convey the concept):
 
-![[Pasted image 20240302101356.png]]
+![[virtual-layer-stacking.png]]
 
 As indicated in the figure, I ended up adding LoRA (or IA3) adapters to both the 'virtual' (weight-tied) as well as the 'real' layers.
 

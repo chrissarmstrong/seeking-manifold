@@ -11,9 +11,17 @@ These are some notes on things that kept me busy during my 2023—2024 sabbatica
 
 I've spent part of my time conducting some modest experiments. The ones I've had a chance to write up [[AI Experiments/|are cataloged here]] (with [[Experiment Ideas/|ideas for more]] as time permits).
 
-![[residual-stream-data-lane.png|600]]
+![[residual-stream-data-lane.png|480]]
 
-(figure from my [[Residual Stream Data Lane|residual stream data lane experiment]])
+(figure from my [[Residual Stream Data Lane|residual stream data lane experiment]] LLM experiment)
+
+![[nca-gecko.png|140]]
+
+(figure from my [[Neural Cellular Automata|neural cellular automata]] post)
+
+![[virtual-layer-stacking.png|350]]
+
+(figure from my [[Virtual Layer Stacking (WIP)|virtual layer stacking]] experiment)
 
 ## Studies
 
