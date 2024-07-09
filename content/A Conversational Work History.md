@@ -5,7 +5,7 @@ tags:
   - post
 date: 2024-02-03
 ---
-Consider this a kind of 'conversational resume', like what you'd get if you quizzed me in person on my work history. We're going to work backwards in time here. (If you want the formal 'toot your own horn' resume, [here you go](https://www.dropbox.com/scl/fi/rsmpgyubcsykkp5zhzalb/Chris_Armstrong_resume_public_2024.03.pdf?rlkey=d8nuns4xgwyka7npeefuky1kz&st=zqcb6mor&dl=0).)
+Consider this a kind of 'conversational resume', like what you'd get if you quizzed me in person on my work history. We're going to work backwards in time here. (If you want the formal 'toot your own horn' resume, [here you go](https://www.dropbox.com/scl/fi/1e53ageb57yz7k37kwdgc/Chris_Armstrong_resume_public_2024.07.pdf?rlkey=spkgloe5zi2hm2oc2xi9ofdil&st=l50mpcpf&dl=0).)
 
 # A Glorious AI Self-Study Sabbatical
 

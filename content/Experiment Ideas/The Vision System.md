@@ -35,7 +35,7 @@ Hinton and colleagues worked for years on ideas related to this. The series of p
 Here is a quick sampling of ideas related to the above that have been swirling in my head:
 - Does the split visual stream allow better object detection than a single stream would? Or does it somehow allow a better internal representation of the world?
 - Are eye saccades somehow critical to allow recognition of parts and assembling them into a whole?
-- Are eye saccades somehow key to the learning process in the visual system? For example, do they provide a contrastive signal to the system (for example, as discussed in [the CLAPP paper](https://arxiv.org/abs/2010.08262) by Illing et al.)? Do they afford some sort of attentional or energy efficiency?
+- Are eye saccades somehow key to the learning process in the visual system? For example, do they provide a contrastive signal to the system (for example, as discussed in [the CLAPP paper](https://arxiv.org/abs/2010.08262) by Illing et al.)? Do they afford some sort of attentional or energy efficiency? (Related: [[Streaming Data Augmentation?]])
 - How does [visual 'crowding'](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2772078/) fit into the picture? This effect seems like a shortcoming or side effect of our vision system, but is it important in some way?
 - Could eye motion play into the concept of 'fast weights' in a system? Hinton touched on fast weights briefly at the end of his [Turing Award acceptance speech](https://www.youtube.com/live/VsnQf7exv5I?si=qziCSCKyerZ3JNNW&t=2375) (though his focus there was not vision-related).
 

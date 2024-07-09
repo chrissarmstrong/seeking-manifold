@@ -11,4 +11,4 @@ With visual systems we typically make heavy use of data augmentation (cropping, 
 
 Quick thought: Is this approach to data augmentation just a shitty way of working around the fact that we aren't using the *appropriate* sort of "augmentation", which is receiving a temporal stream of sensory input?
 
-In other words, does our visual system get a similar training effect by virtue of getting a constant stream of input? And if so, does this latter approach result in more robust representations?
+In other words, does our visual system get a similar training effect by virtue of getting a constant stream of input? And if so, does this latter approach result in more robust representations? (I talk about related ideas in [[The Vision System]].)

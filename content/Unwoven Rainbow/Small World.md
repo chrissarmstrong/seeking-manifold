@@ -14,7 +14,7 @@ I just finished reading [Why Your World is About to Get a Whole Lot Smaller (Oil
   
 Mr. Rubin provides some of the best, most balanced coverage that I've seen of many of the serious problems facing us.  
   
-This is a guy who was ignored by some and derided by others when he predicted in 2000 that the price of oil would break $50 / barrel by 2005 (at the time it was at an all time high of about $30). He was proven correct. In 2005 he predicted (to similar reception) that it would break $100 by 2007. He was proven right a second time.  
+This is a guy who was ignored by some and derided by others when he predicted in 2000 that the price of oil would break \$50 / barrel by 2005 (at the time it was at an all time high of about \$30). He was proven correct. In 2005 he predicted (to similar reception) that it would break \$100 by 2007. He was proven right a second time.  
   
 In this book, Mr. Rubin shows that he wasn't just making lucky guesses, or that he simply believes the price of oil will continue monotonically upward. He has a deep understanding of the reasons why oil prices have behaved as they have (including the 2008 peak and subsequent drop), and the impact of those prices on the global economy.  
   
@@ -44,4 +44,4 @@ Some miscellaneous crazy shit I wasn't aware of:
 Mr. Rubin does take some positions I'm not sure I agree with:  
 
 - He believes that the sweeping bailouts and fiscal priming that nations around the world have undertaken will send us into an inflationary period. [Stoneleigh](http://europe.theoildrum.com/node/5917 "External link to http://europe.theoildrum.com/node/5917") makes a very interesting argument that we could see a deflationary descent down the energy curve.
-- Given how well Mr. Rubin 'gets it', he remains remarkably optimistic about the prospects for simultaneously weaning ourselves from oil and maintaining (modest) economic growth. He points to living conditions in Europe now (with $7 / gallon gas, including heavy taxes) as a lifestyle we could achieve. Maybe that is because he is only thinking out a decade or two, or maybe it is just that the economist in him demands the last word on growth ;-) Or maybe my long-term outlook is just too pessimistic... Here's to hoping he is right
+- Given how well Mr. Rubin 'gets it', he remains remarkably optimistic about the prospects for simultaneously weaning ourselves from oil and maintaining (modest) economic growth. He points to living conditions in Europe now (with $7 / gallon gas, including heavy taxes) as a lifestyle we could achieve. Maybe that is because he is only thinking out a decade or two, or maybe it is just that the economist in him demands the last word on growth ;-) Or maybe my long-term outlook is just too pessimistic... Here's to hoping he is right.

@@ -20,4 +20,4 @@ Hubbert's Peak, page 164:
 
 And from Beyond Oil (published in 2005), page 33:
 
->OPEC was founded to stabilize world oil prices. [...] If the price fell below $22 [per barrel], OPEC would cut back production. If the price went above $28, they could flood the market with oil. Since 2002, OPEC has been producing essentially at full capacity. Early in 2004, with oil prices near $33, OPEC announced a _cut_ in production. The good news is that OPEC is no longer in charge of the price of oil. The bad news is that nobody is in charge.
+>OPEC was founded to stabilize world oil prices. \[...\] If the price fell below \$22 \[per barrel\], OPEC would cut back production. If the price went above \$28, they could flood the market with oil. Since 2002, OPEC has been producing essentially at full capacity. Early in 2004, with oil prices near \$33, OPEC announced a _cut_ in production. The good news is that OPEC is no longer in charge of the price of oil. The bad news is that nobody is in charge.
