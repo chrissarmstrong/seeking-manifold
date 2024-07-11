@@ -32,7 +32,7 @@ Here is an understatement to note: **Sometimes it is more difficult than you thi
   
 Nowadays I use more Open Source software than ever, and collectively it represents an amazing amount of work. At the moment I am using Linux (Ubuntu) / GNU tools, Gnome, KDE, Firefox, Thunderbird, OpenOffice, Wordpress, Gallery, Joomla, MySQL, Ruby on Rails, KDevelop, Gimp, XPlanner, Digikam, TiddlyWiki, Rythmbox. There are additional OS apps that I use on a sometimes basis or used regularly in the past, the most notable of which are: Perl, Postgres, Latex (and then Lyx), StarOffice, Mozilla, and Gaim (now Pidgin). Holy cow!  
   
-So I will close by saying that for the last decade and a half, I've been mostly leeching off of Linux and Open Source applications... I'm really sorry about that :-/ The one exception — and I hope it is decent enough to make a karmic dent — is that personally and professionally I have been an outspoken advocate for OSS the whole time.  
+So I will close by saying that for the last decade and a half, I've been getting more from Linux and Open Source applications than I've been giving back... I'm really sorry about that :-/ The one exception—and I hope it is decent enough to make a karmic dent—is that personally and professionally I have been an outspoken advocate for OSS the whole time.  
 
 
 [^1]: Word 6 had arrived recently, and a few students tried using it to write their dissertation. Their recommendation was to stay away... Word had several serious bugs specific to long documents and the particulars of scientific treatises that Microsoft wasn't very responsive in dealing with.  

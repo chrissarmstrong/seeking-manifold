@@ -52,4 +52,6 @@ Hope springs eternal, though, and every year I plant a handful of full-sized tom
 
 A volunteer visitor to the garden this year has been a hit: purslane. We're often pulling small guys out of the plots, but this year it found its way into some of our deck containers, where it has gone crazy with the better soil. Every evening I snip off a thick stem and put the leaves into the daily kale and cabbage salad.
 
+(Of course you should never eat a plant if you don't know how to properly identify it and can differentiate it from dangerous look-alikes!)
+
 ![[purslane.png]]
