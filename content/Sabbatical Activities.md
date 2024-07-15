@@ -63,7 +63,7 @@ Being able to search for "kids kayaking" or "camping by the river" and instantly
 
 ### VQ-GAN Text to Image
 
-My initial exposure to (early) text-to-image systems. [[CLIP Guided Diffusion|Read about it here.]]
+My initial exposure to (early) text-to-image GenAI systems. [[CLIP Guided Diffusion|Read about it here.]]
 
 ![[a-watercolor-painting-of-an-owl2.png|A Watercolor Painting of an Owl|300]]
 
