@@ -5,7 +5,7 @@ tags:
   - post
 date: 2024-04-08
 ---
-These are notes on things that kept me busy during my 2023—2024 sabbatical year as I pivot towards AI (as well as a few things I worked on earlier). (Info on my previous work history is [[A Conversational Work History|here]].)
+These are notes on things that kept me busy during my 2023—2024 sabbatical year as I continue my pivot towards AI (as well as a few things I worked on earlier). (Info on my previous work history is [[A Conversational Work History|here]].)
 
 ## Experiments
 
@@ -13,15 +13,15 @@ I've spent part of my time conducting some modest experiments. The ones I've had
 
 ![[residual-stream-data-lane.png|480]]
 
-(figure from my [[Residual Stream Data Lane|residual stream data lane experiment]] LLM experiment)
+(figure from my [[Residual Stream Data Lane|residual stream data lane LLM experiment]])
 
 ![[nca-gecko.png|140]]
 
-(figure from my [[Neural Cellular Automata|neural cellular automata]] post)
+(figure from my [[Neural Cellular Automata|neural cellular automata post]])
 
 ![[virtual-layer-stacking.png|350]]
 
-(figure from my [[Virtual Layer Stacking (WIP)|virtual layer stacking]] experiment)
+(figure from my [[Virtual Layer Stacking (WIP)|virtual layer stacking transformer experiment]])
 
 ## Studies
 
@@ -30,7 +30,7 @@ Another big chunk of sabbatical time has been spent studying some of the AI-rela
 - **Spiking Neural Networks (SNNs).** I spent a couple of months doing a deep dive on this, and would love to spend more. There is a very interesting tradeoff between SNN approaches (that are fundamentally analogue) and the digital approach that is all the rage at the moment. SNNs offer the promise of dramatically lower power consumption, but—as Hinton has pointed out—the ability to trivially duplicate digital systems is really useful. Unfortunately, the lack of availability of SNN hardware for small-scale research is a real obstacle, and has prevented me from going too far with this.
 - **Neuroscience and human development.** I spent a while doing a deep dive into neuroscience generally. I was all set to take the [Neuromatch Academy](https://neuromatch.io/neuroscience/) summer school course at the start of my sabbatical, and really looking forward to it, but the timing didn't quite work out with my Verizon departure. Instead I worked my way through Matthew Thiboust's excellent [Insights from the Brain](https://www.insightsfromthebrain.com/) and a number of the resources referenced there. I'm also a big fan of [Josh Tenenbaum](https://www.csail.mit.edu/person/joshua-tenenbaum) and his work.
 - **Large Language Models (LLMs)**. Much of [[AI Experiments/|my recent experimentation]] has been with (large and not so large) language models. While I'm skeptical that LLMs—by themselves, as they exist today—are the path to advanced machine intelligence, I think they have a large role to play, and they are clearly giving us some great new tools to work with (for both research and business applications). I'm very interested in the trends towards democratization of these tools, from open weights and datasets to techniques that enable low-cost fine-tuning (like quantization, LoRA, and QLoRA).
-- **Diffusion models.** The recent advances in diffusion models are fascinating, and I've been paying close attention to this generative AI (GenAI) sub-field. I'm interested not only in applications to images but to other domains as well (e.g., [Diffusion-LM](https://arxiv.org/abs/2205.14217)). Intuitively I feel that a lot of our thought processes are more akin to diffusion than to autoregression, and I'm thinking about how that might manifest in approaches to language modeling, etc.
+- **Diffusion models.** The recent advances in diffusion models are fascinating, and I've been paying close attention to this generative AI (GenAI) sub-field. I'm interested not only in applications to images but to other domains as well (e.g., [Diffusion-LM](https://arxiv.org/abs/2205.14217)). Based purely on introspection I feel that our thought processes may be more akin to reverse diffusion than to autoregression, and I'm thinking about how that might manifest in approaches to language modeling, etc.
 - **State Space Models.** Transformers quickly became ubiquitous in NLP after their introduction in 2017, and since then have had a huge impact in other domains as well (images, some areas of RL, etc.). But I believe that over the next few years we'll see our set of tools expand to other architectures. SSMs and their variants (Mamba, RetNet, RWKV) are a promising contender here, and I'm trying to get a grounding in these transformer alternatives.
 - **Neural Cellular Automata.** I think these are really interesting and might have some overlap with AI and cognition. Read [[Neural Cellular Automata|more about that here]].
 - **MicroGrad and nanoGPT.** Andrej Karpathy is a great teacher, and he has been kind enough to gift us with a bunch of helpful content. If you want to understand the basics of neural nets it is well worth your time to work through his [Youtube videos](https://www.youtube.com/@AndrejKarpathy/videos) and [associated repos](https://github.com/karpathy).
