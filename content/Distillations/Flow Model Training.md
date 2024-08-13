@@ -6,7 +6,7 @@ tags:
 date: 2024-08-09
 promo-linkedin:
 ---
-## This is a [[Distillations/|quick distillation]] of how one trains a flow model.
+## This is a [[Distillations/|short distillation]] of how one trains a flow model.
 
 ![[flow-model-training.png]]
 

@@ -6,7 +6,7 @@ tags:
 date: 2024-08-09
 promo-linkedin:
 ---
-## This is a [[Distillations/|quick distillation]] of the Evidence Lower Bound (ELBO).
+## This is a [[Distillations/|short distillation]] of the derivation of the Evidence Lower Bound (ELBO).
 
 ![[elbo-derivation.png]] 
 

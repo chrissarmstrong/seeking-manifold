@@ -6,7 +6,7 @@ tags:
 date: 2024-08-09
 promo-linkedin:
 ---
-## This is a [[Distillations/|quick distillation]] of Maximum Likelihood Estimation (MLE).
+## This is a [[Distillations/|short distillation]] of the motivation for Maximum Likelihood Estimation (MLE).
 
 ![[mle.png]]
 
