@@ -21,9 +21,9 @@ The job was my introduction to the AI space, and regularly meeting with companie
 
 # Perfect Sense (Brightspot)
 
-Prior to joining Verizon I was at Perfect Sense (now [Brightspot](https://www.brightspot.com/)) for 7 years. I was with the company as it grew from about 40 people to 130. I did an interesting combination of product management for the in-house content management and digital asset management systems that we sold and consulting work for Perfect Sense customers.
+Prior to joining Verizon I was at Perfect Sense (now [Brightspot](https://www.brightspot.com/)) for 7 years. I was with the company as it grew from about 40 people to 130. I did an interesting combination of B2B product management for the in-house content management and digital asset management systems that we sold and consulting work for Perfect Sense customers.
 
-I learned a lot about the content management and editorial space, as well as handling client engagements in an end-to-end consulting role (doing proposals, drafting contracts, project budgeting and planning, and fulfillment).
+I learned a lot about the content management and editorial space, as well as handling client engagements in an end-to-end consulting role (doing proposals, drafting contracts, project budgeting and planning, and fulfillment). It was also my first in-depth exposure to building cloud-based products.
 
 (It was also a welcome break from working in the AOL big-company bureaucracy. Everyone owes it to themselves to work in a variety of places from small to large; it helps immensely to be able to compare different styles of management, different ways of structuring an organization, and the like.)
 

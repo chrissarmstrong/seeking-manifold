@@ -39,6 +39,10 @@ But these feel like they are either tangential invocations of time-based process
 
 Something in my gut tells me that having time play a central role in our AI systems is going to be critical for getting them to understand causality, object permanence, interactions with 3D systems, and physics; be able to perform complex, hierarchical long-term planning; be robust to adversarial attacks, and so on. I would love to help figure out how we make that happen.
 
+---
+
+2024-08-21 update: I'm learning a bit about Global Workspace Theory (here is [the Wikipedia entry](https://en.wikipedia.org/wiki/Global_workspace_theory), although I kind of prefer [this summary](https://bernardbaars.com/wp-content/uploads/2021/04/Baars_-The-global-brainweb_-An-update-on-global-workspace-theory.pdf) from one of the originators), which dates all the way back to the 1980s. It is a leading theory about how the different components of the brain may work together, and time (not surprisingly) plays a central role.
+
 [^1]: I quite like Karl Friston's discussion on consciousness [in this article](https://aeon.co/essays/consciousness-is-not-a-thing-but-a-process-of-inference).
 
 [^2]: Check out [The Development of Embodied Cognition: Six Lessons from Babies](https://www.semanticscholar.org/paper/The-Development-of-Embodied-Cognition%3A-Six-Lessons-Smith-Gasser/25f8e9e35cafd7fb686d939f274111bcffeafd6b) by Smith and Gasser (2005).

@@ -73,3 +73,7 @@ In this case I had to have a bit of back and forth with the LLM before I got thi
 ---
 
 2024-08-05: Here's [a post by Nicholas Carlini](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html) in a similar vein but with a *ton* of examples of how he uses LLMs for programming assistance.
+
+---
+
+2024-08-22 update: Here's [a relevant and interesting piece](https://www.lennysnewsletter.com/p/why-pms-are-best-positioned-to-thrive?_bhlid=ff137556a5d14e3771838ca37119a0bd5a13e6d8).

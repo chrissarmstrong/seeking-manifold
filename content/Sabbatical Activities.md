@@ -5,7 +5,7 @@ tags:
   - post
 date: 2024-04-08
 ---
-These are notes on things that kept me busy during my 2023—2024 sabbatical year as I continue my pivot towards AI (as well as a few things I worked on earlier). (Info on my previous work history is [[A Conversational Work History|here]].)
+These are notes on the epistemic foraging[^1] that kept me busy during my sabbatical as I continue my pivot towards AI (as well as a few things I worked on earlier). (Info on my previous work history is [[A Conversational Work History|here]].)
 
 ## Experiments
 
@@ -100,3 +100,5 @@ What I have *not* done is any sort of integration between Obsidian and Zotero. I
 ### Deck reno
 
 I spent sabbatical time working on my deck, so I get to [[Deck Renovation!|talk about it here]] :)
+
+[^1]: This is a wonderful phrase that—as far as I can tell—can be attributed to Karl Friston (in the context of his Free Energy Principle). I take it to mean *active exploration that an organism undertakes in an attempt to resolve uncertainty and disclose the structure of the world*.
