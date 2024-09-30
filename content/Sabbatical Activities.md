@@ -5,7 +5,7 @@ tags:
   - post
 date: 2024-04-08
 ---
-These are notes on the epistemic foraging[^1] that kept me busy during my sabbatical as I continue my pivot towards AI (as well as a few things I worked on earlier). (Info on my previous work history is [[A Conversational Work History|here]].)
+These are notes on the epistemic foraging[^1] that has kept me busy during my sabbatical as I continue my pivot towards AI (as well as a few things I worked on earlier). (Info on my previous work history is [[A Conversational Work History|here]].)
 
 ## Experiments
 
