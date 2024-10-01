@@ -4,7 +4,7 @@ draft: false
 tags:
   - post
 date: 2024-09-30
-promo-linkedin:
+promo-linkedin: 2024-09-30
 ---
 Want to listen to a summary of this site in the form of a podcast?
 
