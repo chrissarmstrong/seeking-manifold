@@ -16,7 +16,7 @@ And since [[Embedding vs Attention and FFW Param Counts|the QKV and FFW matrices
 
 ## The Experiment
 
-I started with the [TinyStories-33M model](https://huggingface.co/roneneldan/TinyStories-33M) (based on GPTNeo) and randomly initialized all weights. I set $d_{model}$ to 384. All models except one had four layers (the exception had eight layers, see plot below).
+I started with the [GPTNeo](https://huggingface.co/EleutherAI/gpt-neo-125m) model and randomly initialized all weights. I set $d_{model}$ to 384. All models except one had four layers (the exception had eight layers, see plot below).
 
 Then I tried substituting different layers with low-rank versions, and then retrained the entire model from scratch for each configuration.
 

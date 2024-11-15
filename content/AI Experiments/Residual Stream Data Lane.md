@@ -10,7 +10,7 @@ promo-linkedin:
 
 Chris Olah, with collaborators Nelson Elhage, Neel Nanda, Catherine Olssen and others at Anthropic have done a lot of interesting mechanistic interpretability work that begins to explain the [mathematical framework](https://transformer-circuits.pub/2021/framework/index.html) and [key mechanisms](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html) of the transformer architecture (and [convnet circuits before that](https://distill.pub/2020/circuits/)).
 
-Reading that work got me to wondering: if the residual stream of the transformer is in part a sort of storage area / scratch pad / communication channel between layers, would it make sense to 'help the model out' by giving it a dedicated area on the residual stream?
+Reading that work got me to wondering: if the [[Residual Stream|residual stream]] of the transformer is in part a sort of storage area / scratch pad / communication channel between layers, would it make sense to 'help the model out' by giving it a dedicated area on the residual stream?
 
 Also think about what a language model needs to do: in each sequence position, the residual stream starts with an embedding of a token (in layer 1), and at the end (layer N) it has to turn that position into the embedding for the *next* word in the sequence (either the predicted word, if it is at the end of the sequence, otherwise the next word in the sequence that it does already know). In between the lowest and highest layers, it has to use that space for a bunch of calculations / manipulations. It seems really cumbersome! It obviously works, but could we help the model (either train with less data or maybe with fewer layers or parameters) by making its job easier?
 
@@ -22,7 +22,7 @@ The basic idea is that we have a residual stream that is (say) twice as big as t
 
 ## The Experiment
 
-I used a modified version of [the TinyStories-33M model](https://huggingface.co/roneneldan/TinyStories-33M) (which is based on GPTNeo) as a basis for this work, trained from scratch. I modified the model per the diagram above to have some fraction of its residual stream freed up as a data lane - that is, the input embedding did not go into that part of the residual stream.
+I used a modified version of [GPTNeo](https://huggingface.co/EleutherAI/gpt-neo-125m) as a basis for this work (inspired by [the TinyStories paper](https://arxiv.org/abs/2305.07759)), trained from scratch. I modified the model per the diagram above to have some fraction of its residual stream freed up as a data lane - that is, the input embedding did not go into that part of the residual stream.
 
 I tried a number of different things:
 - Varying the size of the residual stream itself, or $d_{model}$ (which changes the number of trainable params)
