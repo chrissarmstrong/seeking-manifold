@@ -9,7 +9,7 @@ Some background: I'm a former electrical engineer (RF circuits, antennas, filter
 
 In 2018 (while doing product management for a machine learning-based product at Verizon) I started getting *very* interested in all of the research around ML and AI. Before long, my nights and weekends were spent poring over the academic papers that were coming out of arxiv.org as if from a fire hose. And for the first time in many years I took up a new programming language (Python) and got myself an itty-bitty GTX 1070Ti GPU.
 
-In the spring of 2023 I decided to [[Leaving Verizon|quit my day job]], if only for a while, so I could focus more fully on this AI thing and redirect my work life accordingly. Now it's over a year later, and with a better sense of the overall landscape of AI activity and a bit of research under my belt I'm starting to think about reentering the workforce.
+In the spring of 2023 I decided to [[Leaving Verizon|quit my day job]], if only for a while, so I could focus more fully on this AI thing and redirect my work life accordingly. Now it's over two years later, and with a better sense of the overall landscape of AI activity and a bit of research under my belt I'm starting to think about reentering the workforce.
 
 >[!tip] The Main Things
 >- [[Sabbatical Activities|My 2023—2024 sabbatical activities]] (start here)
@@ -26,7 +26,7 @@ In the spring of 2023 I decided to [[Leaving Verizon|quit my day job]], if only 
 
 Here's an overview of things I've been thinking about and doing lately ([[Sabbatical Activities|more detail here]]):
 
-![[Activities.png]]
+![[Pasted image 20250814160813.png]]
 
 And here are some of my [[AI Research Interests|research interests]]:
 

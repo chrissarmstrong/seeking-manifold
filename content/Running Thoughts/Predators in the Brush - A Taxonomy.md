@@ -117,7 +117,7 @@ This final bucket is for humans using AI in some way to intentionally end all hu
 >[!info] Commentary
 >My shorthand for this is the 'easy nukes' scenario.
 >
->This is a reference to one the scenarios in Nick Bostrom's excellent [Vulnerable World Hypothesis](https://nickbostrom.com/papers/vulnerable.pdf) paper (2019). The paper is very accessible and worth a read, but I'll summarize this particular vulnerability because I think people sometimes fail to account for its possibility when discussing AI.
+>This is a reference to one of the scenarios in Nick Bostrom's excellent [Vulnerable World Hypothesis](https://nickbostrom.com/papers/vulnerable.pdf) paper (2019). The paper is very accessible and worth a read, but I'll summarize this particular vulnerability because I think people sometimes fail to account for its possibility when discussing AI.
 >
 >Consider the following thought experiment: it so happens that the laws of physics are such that building a large, life-ending nuclear weapon is *really quite easy*. All it takes are some simple ingredients available to anyone, together with some tools that are easy to acquire. Think sand + water + electricity together with a microwave oven, or something on that level.
 >

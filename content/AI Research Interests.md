@@ -13,7 +13,8 @@ Here's a laundry list of research topics I'm interested in:
 	- Model merging
 	- Adaptive / conditional computation
 	- Diffusion models
-- Alternative architectures
+- Various architectures
+	- Transformers
 	- JEPA
 	- SSMs, Mamba, MoE-Mamba, BlackMamba
 	- Mixture of Experts (MoE)
