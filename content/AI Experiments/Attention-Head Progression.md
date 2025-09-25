@@ -1,7 +1,8 @@
 ---
 title: Attention-Head Progression
 draft: false
-tags: 
+tags:
+  - post/experiment
 date: 2024-11-15
 linkedin-promo: false
 ---
