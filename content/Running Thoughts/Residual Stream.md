@@ -1,7 +1,8 @@
 ---
 title: Residual Stream (??)
 draft: false
-tags: 
+tags:
+  - post/thought
 date: 2024-11-09
 promo-linkedin:
 ---
